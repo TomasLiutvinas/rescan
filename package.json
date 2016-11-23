@@ -1,0 +1,11 @@
+{
+  "name": "rescan",
+  "version": "0.0.1",
+  "description": "scanning shit",
+  "main": "butai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomsen",
+  "license": "ISC"
+}
