@@ -3,18 +3,10 @@ console.log('butai son');
 var REScan = require ('./functionslel.js');
 
 var flats = [];
-var lastPageFetched = false;
 
-function processShit(htmlResponse){
-    if(htmlResponse){
-        console.log('Response: found');        
-        console.log(htmlResponse.toString());
-    }else{
-        console.log('Response: empty');
-    }
-};
+var written = 0;
 
-pullData(1);
+pullData(143);
 
 function pullData(page){
     var url = 'http://www.aruodas.lt/butai/visi-miestai/?obj=1&mod=Siulo&act=makeSearch&Page=' + page;
@@ -77,8 +69,16 @@ function collectFlatInfo(response, processing, extraData){
 }
 
 function processFlatInfo(){
-    for(var i = 0; i < flats.length; i ++){
-        //console.log(flats[i]);    
+    while(written != flats.length -1){
+        var miestas = flats[written].address.split(',')[0];
+        var rajonas = flats[written].address.split(',')[1];
+        if(rajonas){
+            rajonas = rajonas.trim().replace('.','');
+        }
+        var directory =  miestas + '\\' + rajonas + '\\';
+        var file = flats[written].ids[0];
+        writeObjectToFile(directory, file, flats[written]);
+        written++;
     }
     console.log(flats.length);
 }
@@ -93,7 +93,7 @@ function processInternalInfo(extraData){
             }
         }).indexOf(extraData.ID);
 
-        flats[elementPos].phones = extraData.phones;    
+        flats[elementPos].phones = extraData.phones;
     }
     
 }
@@ -116,6 +116,33 @@ function collectInternalInfo(response, processing, extraData){
         processing(extraData);
       }
     );
+}
+
+function writeObjectToFile(directory, filename, object){
+    //direcotory == kaunas\\eiguliai
+    //filename == 2341234
+
+    
+    var jsonFile = require('jsonfile');
+    var dir = 'C:\\Users\\Tomas\\Documents\\GitHub\\rescan\\db\\';
+
+    dir += directory.replace('.', '').replace('.', '');
+    jsonFile.spaces = 4;
+    var file = dir + filename + '.json';
+    ensureDirectoryExistence(file);
+    jsonFile.writeFile(file,object, function(err){
+    });
+}
+
+function ensureDirectoryExistence(filePath) {
+  var fs =  require('fs');
+  var path = require('path');
+  var dirname = path.dirname(filePath);
+  if (fs.existsSync(dirname)) {
+    return true;
+  }
+  ensureDirectoryExistence(dirname);
+  fs.mkdirSync(dirname);
 }
 
  /*
