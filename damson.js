@@ -8,4 +8,3 @@ npm install xmlhttprequest
 npm install jquery
 npm install jsdom
 */
-

@@ -6,12 +6,14 @@ var flats = [];
 
 var written = 0;
 
-pullData(143);
+pullData(1);
 
 function pullData(page){
-    var url = 'http://www.aruodas.lt/butai/visi-miestai/?obj=1&mod=Siulo&act=makeSearch&Page=' + page;
+    var url = 'http://www.aruodas.lt/butai/visi-miestai/?obj=1&mod=Siulo&act=makeSearch&Page=';
+    //url = 'http://www.aruodas.lt/butai/kauno-rajone/?obj=1&FRegion=63&mod=Siulo&act=makeSearch&Page=';
+    url+=page;
     REScan.DoUrlRequest(url, collectFlatInfo, processFlatInfo, {Page:page});
-    console.log(page);
+    console.log('Reading page: ' + page);
 }
 
 function collectFlatInfo(response, processing, extraData){
@@ -69,7 +71,7 @@ function collectFlatInfo(response, processing, extraData){
 }
 
 function processFlatInfo(){
-    while(written != flats.length -1){
+    while(flats && written != flats.length -1){
         var miestas = flats[written].address.split(',')[0];
         var rajonas = flats[written].address.split(',')[1];
         if(rajonas){
@@ -80,7 +82,10 @@ function processFlatInfo(){
         writeObjectToFile(directory, file, flats[written]);
         written++;
     }
-    console.log(flats.length);
+
+    if(flats && flats.length){
+        console.log('Flats list: ' + flats.length);       
+    }
 }
 
 function processInternalInfo(extraData){
@@ -122,16 +127,13 @@ function writeObjectToFile(directory, filename, object){
     //direcotory == kaunas\\eiguliai
     //filename == 2341234
 
-    
-    var jsonFile = require('jsonfile');
     var dir = 'C:\\Users\\Tomas\\Documents\\GitHub\\rescan\\db\\';
 
     dir += directory.replace('.', '').replace('.', '');
-    jsonFile.spaces = 4;
+    
     var file = dir + filename + '.json';
     ensureDirectoryExistence(file);
-    jsonFile.writeFile(file,object, function(err){
-    });
+    writeOrUpdateFile(file, object, function(err){if(err){console.log(err);};});
 }
 
 function ensureDirectoryExistence(filePath) {
@@ -143,6 +145,50 @@ function ensureDirectoryExistence(filePath) {
   }
   ensureDirectoryExistence(dirname);
   fs.mkdirSync(dirname);
+}
+
+function writeOrUpdateFile(file, object, onComplete){
+    var jsonFile = require('jsonfile');
+    var fs = require('fs');
+    jsonFile.spaces = 4;
+    if(fs.existsSync(file) && isJsonString(fs.readFileSync(file))){
+        var existingItem = jsonFile.readFileSync(file);
+        mergeArrays(object.ids,existingItem.ids);
+        mergeArrays(object.phones,existingItem.phones);
+        object.priceHistory.push.apply(object.priceHistory, existingItem.priceHistory);
+        object.priceHistory = distinctPriceHistory(object.priceHistory);
+    }
+    
+    jsonFile.writeFile(file,object, onComplete);
+}
+
+function mergeArrays(source, target){
+    target.push.apply(target, source);
+    target = target.filter(function (x, i, a) { 
+    return a.indexOf(x) == i; 
+    });
+    return target;
+}
+
+function isJsonString(str) {
+    try {
+        JSON.parse(str);
+    } catch (e) {
+        return false;
+    }
+    return true;
+}
+
+function distinctPriceHistory(array){
+    var unique = {};
+    var distinct = [];
+    for( var i in array ){
+        if( typeof(unique[array[i].date]) == "undefined"){
+            distinct.push(array[i]);
+        }
+        unique[array[i].date] = 0;
+    }
+    return distinct;
 }
 
  /*
