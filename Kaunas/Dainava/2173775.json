@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-1-k-butas-pramones-pr-35-blok-1-2173775/",
+    "ids": [
+        "2173775"
+    ],
+    "address": "Kaunas, Dainava, Pramonės pr.",
+    "rooms": 1,
+    "area": 33,
+    "floor": "3/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-1-k-butas-pramones-pr-35-blok-1-2173775/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-1-k-butas-pramones-pr-35-blok-1-2173775/"
+        }
+    ]
+}

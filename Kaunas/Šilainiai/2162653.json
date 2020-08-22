@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33731545/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-naujas-butas-su-autonominiu-1-2162653/",
+    "ids": [
+        "2162653"
+    ],
+    "address": "Kaunas, Šilainiai, A. Šapokos g.",
+    "rooms": 3,
+    "area": 66,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-naujas-butas-su-autonominiu-1-2162653/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-naujas-butas-su-autonominiu-1-2162653/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-naujas-butas-su-autonominiu-1-2162653/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-naujas-butas-su-autonominiu-1-2162653/"
+        }
+    ]
+}

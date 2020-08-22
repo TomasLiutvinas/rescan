@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33858131/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-birzisku-g-parduodamas-2-ju-kambariu-butas-dainavoje-1-2164435/",
+    "ids": [
+        "2164435"
+    ],
+    "address": "Kaunas, Dainava, Biržiškų g.",
+    "rooms": 2,
+    "area": 43,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-birzisku-g-parduodamas-2-ju-kambariu-butas-dainavoje-1-2164435/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-birzisku-g-parduodamas-2-ju-kambariu-butas-dainavoje-1-2164435/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-birzisku-g-parduodamas-2-ju-kambariu-butas-dainavoje-1-2164435/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-birzisku-g-parduodamas-2-ju-kambariu-butas-dainavoje-1-2164435/"
+        }
+    ]
+}

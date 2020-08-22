@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29746531/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-fredoje-bitininku-g-salia-egzotiskojo-botanikos-sodo-bitininku-1-2114601/",
+    "ids": [
+        "2114601"
+    ],
+    "address": "Kaunas, Freda, Bitininkų g.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "63000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-bitininku-g-salia-egzotiskojo-botanikos-sodo-bitininku-1-2114601/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "63000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-bitininku-g-salia-egzotiskojo-botanikos-sodo-bitininku-1-2114601/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "63000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-bitininku-g-salia-egzotiskojo-botanikos-sodo-bitininku-1-2114601/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "63000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-bitininku-g-salia-egzotiskojo-botanikos-sodo-bitininku-1-2114601/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31618081/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-parduodamas-butas-kaune-parduodamas-triju-1-2141707/",
+    "ids": [
+        "2141707"
+    ],
+    "address": "Kaunas, Panemunė, Kampiškių g.",
+    "rooms": 3,
+    "area": 55,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "38500",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-parduodamas-butas-kaune-parduodamas-triju-1-2141707/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "38500",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-parduodamas-butas-kaune-parduodamas-triju-1-2141707/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "38500",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-parduodamas-butas-kaune-parduodamas-triju-1-2141707/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "38500",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-parduodamas-butas-kaune-parduodamas-triju-1-2141707/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "38500",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-parduodamas-butas-kaune-parduodamas-triju-1-2141707/"
+        }
+    ]
+}

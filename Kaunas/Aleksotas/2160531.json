@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33749905/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-versmes-g-jonuciu-namai-mazaaukstes-statybos-1-2160531/",
+    "ids": [
+        "2160531"
+    ],
+    "address": "Kaunas, Aleksotas, Versmės g.",
+    "rooms": 1,
+    "area": 39,
+    "floor": "2/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/25/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-versmes-g-jonuciu-namai-mazaaukstes-statybos-1-2160531/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-versmes-g-jonuciu-namai-mazaaukstes-statybos-1-2160531/"
+        }
+    ]
+}

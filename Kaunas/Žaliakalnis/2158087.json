@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33214505/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemuogiu-g-parduodamas-5-k-butas-zaliakalnyje-zemuogiu-1-2158087/",
+    "ids": [
+        "2158087"
+    ],
+    "address": "Kaunas, Žaliakalnis, Žemuogių g.",
+    "rooms": 5,
+    "area": 150,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "133000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemuogiu-g-parduodamas-5-k-butas-zaliakalnyje-zemuogiu-1-2158087/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "133000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemuogiu-g-parduodamas-5-k-butas-zaliakalnyje-zemuogiu-1-2158087/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "133000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemuogiu-g-parduodamas-5-k-butas-zaliakalnyje-zemuogiu-1-2158087/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "133000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemuogiu-g-parduodamas-5-k-butas-zaliakalnyje-zemuogiu-1-2158087/"
+        }
+    ]
+}

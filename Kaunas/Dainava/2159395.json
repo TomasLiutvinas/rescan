@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33348953/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-k-barsausko-g-1kambario-butas-su-patogumais-kbarsausko-g-1-2159395/",
+    "ids": [
+        "2159395"
+    ],
+    "address": "Kaunas, Dainava, K. Baršausko g.",
+    "rooms": 1,
+    "area": 16,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "14500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-k-barsausko-g-1kambario-butas-su-patogumais-kbarsausko-g-1-2159395/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "14500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-k-barsausko-g-1kambario-butas-su-patogumais-kbarsausko-g-1-2159395/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "14500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-k-barsausko-g-1kambario-butas-su-patogumais-kbarsausko-g-1-2159395/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "14500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-k-barsausko-g-1kambario-butas-su-patogumais-kbarsausko-g-1-2159395/"
+        }
+    ]
+}

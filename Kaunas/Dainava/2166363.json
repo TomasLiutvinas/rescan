@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33955301/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-parduodamas-2-nepereinamu-kambariu-butas-1-2166363/",
+    "ids": [
+        "2166363"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 2,
+    "area": 44,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "38000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-parduodamas-2-nepereinamu-kambariu-butas-1-2166363/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "38000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-parduodamas-2-nepereinamu-kambariu-butas-1-2166363/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "38000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-parduodamas-2-nepereinamu-kambariu-butas-1-2166363/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "38000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-parduodamas-2-nepereinamu-kambariu-butas-1-2166363/"
+        }
+    ]
+}

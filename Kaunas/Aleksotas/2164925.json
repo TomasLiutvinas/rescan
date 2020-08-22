@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33849413/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-9-ojo-forto-g-geras-butas-1-2164925/",
+    "ids": [
+        "2164925"
+    ],
+    "address": "Kaunas, Aleksotas, 9-ojo Forto g.",
+    "rooms": 3,
+    "area": 69,
+    "floor": "4/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "80000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-9-ojo-forto-g-geras-butas-1-2164925/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "80000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-9-ojo-forto-g-geras-butas-1-2164925/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "80000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-9-ojo-forto-g-geras-butas-1-2164925/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "80000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-9-ojo-forto-g-geras-butas-1-2164925/"
+        }
+    ]
+}

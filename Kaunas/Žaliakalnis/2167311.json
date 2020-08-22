@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34004601/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-saules-g-parduodu-2k-erdvu-54-kvm-buta-kaune-1-2167311/",
+    "ids": [
+        "2167311"
+    ],
+    "address": "Kaunas, Žaliakalnis, Saulės g.",
+    "rooms": 2,
+    "area": 54,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "46000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-saules-g-parduodu-2k-erdvu-54-kvm-buta-kaune-1-2167311/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "46000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-saules-g-parduodu-2k-erdvu-54-kvm-buta-kaune-1-2167311/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "46000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-saules-g-parduodu-2k-erdvu-54-kvm-buta-kaune-1-2167311/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "46000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-saules-g-parduodu-2k-erdvu-54-kvm-buta-kaune-1-2167311/"
+        }
+    ]
+}

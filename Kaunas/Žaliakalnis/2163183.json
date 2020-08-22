@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33722087/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-zaliakalnyje-zemaiciu-g-parduodamas-2-ju-1-2163183/",
+    "ids": [
+        "2163183"
+    ],
+    "address": "Kaunas, Žaliakalnis, Žemaičių g.",
+    "rooms": 2,
+    "area": 33,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-zaliakalnyje-zemaiciu-g-parduodamas-2-ju-1-2163183/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-zaliakalnyje-zemaiciu-g-parduodamas-2-ju-1-2163183/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-zaliakalnyje-zemaiciu-g-parduodamas-2-ju-1-2163183/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-zaliakalnyje-zemaiciu-g-parduodamas-2-ju-1-2163183/"
+        }
+    ]
+}

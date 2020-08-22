@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34411247/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-k-donelaicio-g-projekto-unikalumas-telegrafas-tai-1-2173449/",
+    "ids": [
+        "2173449"
+    ],
+    "address": "Kaunas, Centras, K. Donelaičio g.",
+    "rooms": 1,
+    "area": 33,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-k-donelaicio-g-projekto-unikalumas-telegrafas-tai-1-2173449/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-k-donelaicio-g-projekto-unikalumas-telegrafas-tai-1-2173449/"
+        }
+    ]
+}

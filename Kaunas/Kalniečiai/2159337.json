@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34175357/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-savanoriu-pr-ntexpertas-lt-reikalinga-profesionali-1-2159337/",
+    "ids": [
+        "2159337"
+    ],
+    "address": "Kaunas, Kalniečiai, Savanorių pr.",
+    "rooms": 2,
+    "area": 38,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "24700",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-savanoriu-pr-ntexpertas-lt-reikalinga-profesionali-1-2159337/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "24700",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-savanoriu-pr-ntexpertas-lt-reikalinga-profesionali-1-2159337/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "24700",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-savanoriu-pr-ntexpertas-lt-reikalinga-profesionali-1-2159337/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "24700",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-savanoriu-pr-reikalinga-profesionali-pagalba-perkant-ar-1-2159337/"
+        }
+    ]
+}

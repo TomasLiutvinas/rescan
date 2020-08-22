@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_25359359/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-panemuneje-parduodamas-2-ju-kambariu-butas-1-2056343/",
+    "ids": [
+        "2056343"
+    ],
+    "address": "Kaunas, Panemunė, Kampiškių g.",
+    "rooms": 2,
+    "area": 41,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "24000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-panemuneje-parduodamas-2-ju-kambariu-butas-1-2056343/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "24000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-panemuneje-parduodamas-2-ju-kambariu-butas-1-2056343/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "24000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-panemuneje-parduodamas-2-ju-kambariu-butas-1-2056343/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "24000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-kampiskiu-g-panemuneje-parduodamas-2-ju-kambariu-butas-1-2056343/"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_7969832/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-a-ir-j-gravrogku-g-parduodamas-kambarys-bendrabutyje-a-ir-j-1-1858831/",
+    "ids": [
+        "1858831"
+    ],
+    "address": "Kaunas, Dainava, A. ir J. Gravrogkų g.",
+    "rooms": 1,
+    "area": 10,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/23/2017",
+            "price": "5800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-a-ir-j-gravrogku-g-parduodamas-kambarys-bendrabutyje-a-ir-j-1-1858831/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "5800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-a-ir-j-gravrogku-g-parduodamas-kambarys-bendrabutyje-a-ir-j-1-1858831/"
+        }
+    ]
+}

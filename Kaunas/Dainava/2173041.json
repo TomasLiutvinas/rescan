@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34392055/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-1-kambario-butas-dainavos-1-2173041/",
+    "ids": [
+        "2173041"
+    ],
+    "address": "Kaunas, Dainava, Kovo 11-osios g.",
+    "rooms": 1,
+    "area": 18,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "9900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-1-kambario-butas-dainavos-1-2173041/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "9900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-1-kambario-butas-dainavos-1-2173041/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "9900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-1-kambario-butas-dainavos-1-2173041/"
+        }
+    ]
+}

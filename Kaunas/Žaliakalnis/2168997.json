@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34124541/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-geliu-rato-g-pigus-2-k-butas-zaliakalnyje-bendra-1-2168997/",
+    "ids": [
+        "2168997"
+    ],
+    "address": "Kaunas, Žaliakalnis, Gėlių Rato g.",
+    "rooms": 2,
+    "area": 31,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "17900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-geliu-rato-g-pigus-2-k-butas-zaliakalnyje-bendra-1-2168997/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "17900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-geliu-rato-g-pigus-2-k-butas-zaliakalnyje-bendra-1-2168997/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "17900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-geliu-rato-g-pigus-2-k-butas-zaliakalnyje-bendra-1-2168997/"
+        }
+    ]
+}

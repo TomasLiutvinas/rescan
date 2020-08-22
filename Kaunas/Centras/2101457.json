@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_28815721/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-vilniaus-g-parduodamas-2-kambariu-butas-vilniaus-g-1-2101457/",
+    "ids": [
+        "2101457"
+    ],
+    "address": "Kaunas, Centras, Vilniaus g.",
+    "rooms": 2,
+    "area": 62,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/23/2017",
+            "price": "120000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vilniaus-g-parduodamas-2-kambariu-butas-vilniaus-g-1-2101457/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "120000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vilniaus-g-parduodamas-2-kambariu-butas-vilniaus-g-1-2101457/"
+        }
+    ]
+}

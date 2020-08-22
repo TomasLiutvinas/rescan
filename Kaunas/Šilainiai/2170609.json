@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34222491/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-2-kambariu-butas-siltas-jaukus-1-2170609/",
+    "ids": [
+        "2170609"
+    ],
+    "address": "Kaunas, Šilainiai, A. Šapokos g.",
+    "rooms": 2,
+    "area": 53,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-2-kambariu-butas-siltas-jaukus-1-2170609/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-2-kambariu-butas-siltas-jaukus-1-2170609/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-2-kambariu-butas-siltas-jaukus-1-2170609/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-2-kambariu-butas-siltas-jaukus-1-2170609/"
+        }
+    ]
+}

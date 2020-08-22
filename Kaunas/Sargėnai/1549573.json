@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_3859201/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-sargenuose-vandziogalos-g-parduodamas-butas-tvenkiniu-g-butas-1-1549573/",
+    "ids": [
+        "1549573"
+    ],
+    "address": "Kaunas, Sargėnai, Vandžiogalos g.",
+    "rooms": 3,
+    "area": 71,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "81000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-vandziogalos-g-parduodamas-butas-tvenkiniu-g-butas-1-1549573/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "81000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-vandziogalos-g-parduodamas-butas-tvenkiniu-g-butas-1-1549573/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "81000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-vandziogalos-g-parduodamas-butas-tvenkiniu-g-butas-1-1549573/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "81000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-vandziogalos-g-parduodamas-butas-tvenkiniu-g-butas-1-1549573/"
+        }
+    ]
+}

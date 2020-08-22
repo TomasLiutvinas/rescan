@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31467681/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-j-vienozinskio-g-parduodamas-2-k-butas-vilijampoleje-1-2139309/",
+    "ids": [
+        "2139309"
+    ],
+    "address": "Kaunas, Vilijampolė, J. Vienožinskio g.",
+    "rooms": 2,
+    "area": 35,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-j-vienozinskio-g-parduodamas-2-k-butas-vilijampoleje-1-2139309/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-j-vienozinskio-g-parduodamas-2-k-butas-vilijampoleje-1-2139309/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-j-vienozinskio-g-parduodamas-2-k-butas-vilijampoleje-1-2139309/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-j-vienozinskio-g-parduodamas-2-k-butas-vilijampoleje-1-2139309/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-j-vienozinskio-g-parduodamas-2-k-butas-vilijampoleje-1-2139309/"
+        }
+    ]
+}

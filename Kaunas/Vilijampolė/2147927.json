@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32025753/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-radvilu-dvaro-g-parduodamas-1-kambarys-dvieju-kambariu-bute-5-1-2147927/",
+    "ids": [
+        "2147927"
+    ],
+    "address": "Kaunas, Vilijampolė, Radvilų Dvaro g.",
+    "rooms": 1,
+    "area": 25,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "12000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-radvilu-dvaro-g-parduodamas-1-kambarys-dvieju-kambariu-bute-5-1-2147927/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "12000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-radvilu-dvaro-g-parduodamas-1-kambarys-dvieju-kambariu-bute-5-1-2147927/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "12000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-radvilu-dvaro-g-parduodamas-1-kambarys-dvieju-kambariu-bute-5-1-2147927/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "12000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-radvilu-dvaro-g-parduodamas-1-kambarys-dvieju-kambariu-bute-5-1-2147927/"
+        }
+    ]
+}

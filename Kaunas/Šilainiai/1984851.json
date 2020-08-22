@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_21330043/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-parduodamas-butas-47-kvm-su-atskiru-1-1984851/",
+    "ids": [
+        "1984851"
+    ],
+    "address": "Kaunas, Šilainiai, Beržų g.",
+    "rooms": 2,
+    "area": 47,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "32000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-parduodamas-butas-47-kvm-su-atskiru-1-1984851/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "32000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-parduodamas-butas-47-kvm-su-atskiru-1-1984851/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "32000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-parduodamas-butas-47-kvm-su-atskiru-1-1984851/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "32000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-parduodamas-butas-47-kvm-su-atskiru-1-1984851/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "33000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-parduodamas-butas-su-zemes-sklypu-47-kvm-1-1984851/"
+        }
+    ]
+}

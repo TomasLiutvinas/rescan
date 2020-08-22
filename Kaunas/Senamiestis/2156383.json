@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33023541/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-veiveriu-g-2-kamb-butas-veiveriu-g-pradzioje-su-1-2156383/",
+    "ids": [
+        "2156383"
+    ],
+    "address": "Kaunas, Senamiestis, Veiverių g.",
+    "rooms": 2,
+    "area": 56,
+    "floor": "1/1",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "28000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-veiveriu-g-2-kamb-butas-veiveriu-g-pradzioje-su-1-2156383/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "28000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-veiveriu-g-2-kamb-butas-veiveriu-g-pradzioje-su-1-2156383/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "28000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-veiveriu-g-2-kamb-butas-veiveriu-g-pradzioje-su-1-2156383/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "28000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-veiveriu-g-2-kamb-butas-veiveriu-g-pradzioje-su-1-2156383/"
+        }
+    ]
+}

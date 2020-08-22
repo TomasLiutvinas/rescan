@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33442285/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-muriniame-name-kompaktiskas-1-kamb-butas-1-2160227/",
+    "ids": [
+        "2160227"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 1,
+    "area": 21,
+    "floor": "4/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "21000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-muriniame-name-kompaktiskas-1-kamb-butas-1-2160227/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "21000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-muriniame-name-kompaktiskas-1-kamb-butas-1-2160227/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "21000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-muriniame-name-kompaktiskas-1-kamb-butas-1-2160227/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "21000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-muriniame-name-kompaktiskas-1-kamb-butas-1-2160227/"
+        }
+    ]
+}

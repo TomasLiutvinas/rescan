@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32944291/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-totoriu-g-ministro-namas-isskirtine-istorija-1-2155875/",
+    "ids": [
+        "2155875"
+    ],
+    "address": "Kaunas, Centras, Totorių g.",
+    "rooms": 4,
+    "area": 83,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "153800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-totoriu-g-ministro-namas-isskirtine-istorija-1-2155875/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "153800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-totoriu-g-ministro-namas-isskirtine-istorija-1-2155875/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "153800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-totoriu-g-ministro-namas-isskirtine-istorija-1-2155875/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "149700",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-totoriu-g-ministro-namas-isskirtine-istorija-1-2155875/"
+        }
+    ]
+}

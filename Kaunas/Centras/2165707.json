@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33903793/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-2016-m-naujai-pilnai-suremontuotas-butas-1-2165707/",
+    "ids": [
+        "2165707"
+    ],
+    "address": "Kaunas, Centras, E. Ožeškienės g.",
+    "rooms": 4,
+    "area": 103,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "155000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-2016-m-naujai-pilnai-suremontuotas-butas-1-2165707/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "155000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-2016-m-naujai-pilnai-suremontuotas-butas-1-2165707/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "155000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-2016-m-naujai-pilnai-suremontuotas-butas-1-2165707/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "155000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-2016-m-naujai-pilnai-suremontuotas-butas-1-2165707/"
+        }
+    ]
+}

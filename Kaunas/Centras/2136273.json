@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31315927/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-traku-g-jaukus-ir-tvarkingas-3-kambariu-mansardinis-1-2136273/",
+    "ids": [
+        "2136273"
+    ],
+    "address": "Kaunas, Centras, Trakų g.",
+    "rooms": 3,
+    "area": 55,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-traku-g-jaukus-ir-tvarkingas-3-kambariu-mansardinis-1-2136273/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-traku-g-jaukus-ir-tvarkingas-3-kambariu-mansardinis-1-2136273/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-traku-g-jaukus-ir-tvarkingas-3-kambariu-mansardinis-1-2136273/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-traku-g-jaukus-ir-tvarkingas-3-kambariu-mansardinis-1-2136273/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-chemijos-g-parduodamas-dvieju-kambariu-butas-su-balkonu-1-2164549/",
+    "ids": [
+        "2164549"
+    ],
+    "address": "Kaunas, Dainava, Chemijos g.",
+    "rooms": 2,
+    "area": 28,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "13000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-chemijos-g-parduodamas-dvieju-kambariu-butas-su-balkonu-1-2164549/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "13000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-chemijos-g-parduodamas-dvieju-kambariu-butas-su-balkonu-1-2164549/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "13000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-chemijos-g-parduodamas-dvieju-kambariu-butas-su-balkonu-1-2164549/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "13000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-chemijos-g-parduodamas-dvieju-kambariu-butas-su-balkonu-1-2164549/"
+        }
+    ]
+}

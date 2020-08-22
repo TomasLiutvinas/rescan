@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34116833/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-parduodamas-1-k-butas-zaliakalnyje-1-2168927/",
+    "ids": [
+        "2168927"
+    ],
+    "address": "Kaunas, Žaliakalnis, Savanorių pr.",
+    "rooms": 1,
+    "area": 23,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-parduodamas-1-k-butas-zaliakalnyje-1-2168927/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-parduodamas-1-k-butas-zaliakalnyje-1-2168927/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-parduodamas-1-k-butas-zaliakalnyje-1-2168927/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-parduodamas-1-k-butas-zaliakalnyje-1-2168927/"
+        }
+    ]
+}

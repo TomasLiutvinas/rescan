@@ -1,0 +1,41 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_28660597/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-radvilenu-pl-dalis-namo-radvilenu-pl-zaliakalnis-1-2098977/",
+    "ids": [
+        "2098977"
+    ],
+    "address": "Kaunas, Žaliakalnis, Radvilėnų pl.",
+    "rooms": 2,
+    "area": 65,
+    "floor": "1/2",
+    "phones": [
+        "+37065885398"
+    ],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-radvilenu-pl-dalis-namo-radvilenu-pl-zaliakalnis-1-2098977/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-radvilenu-pl-dalis-namo-radvilenu-pl-zaliakalnis-1-2098977/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-radvilenu-pl-dalis-namo-radvilenu-pl-zaliakalnis-1-2098977/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-radvilenu-pl-dalis-namo-radvilenu-pl-zaliakalnis-1-2098977/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-radvilenu-pl-dalis-namo-radvilenu-pl-zaliakalnis-1-2098977/"
+        }
+    ]
+}

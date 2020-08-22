@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34174885/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-naujai-suremontuotas-butas-be-tarpininku-1-2169867/",
+    "ids": [
+        "2169867"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 2,
+    "area": 45,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "39900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-naujai-suremontuotas-butas-be-tarpininku-1-2169867/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "39900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-naujai-suremontuotas-butas-be-tarpininku-1-2169867/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "39900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-naujai-suremontuotas-butas-be-tarpininku-1-2169867/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "39900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-naujai-suremontuotas-butas-be-tarpininku-1-2169867/"
+        }
+    ]
+}

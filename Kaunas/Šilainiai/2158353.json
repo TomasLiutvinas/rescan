@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33232369/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambbutas-silainiuose-1-2158353/",
+    "ids": [
+        "2158353"
+    ],
+    "address": "Kaunas, Šilainiai, Baltijos g.",
+    "rooms": 2,
+    "area": 51,
+    "floor": "5/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "36900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambbutas-silainiuose-1-2158353/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "36900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambbutas-silainiuose-1-2158353/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "36900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambbutas-silainiuose-1-2158353/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "36900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambbutas-silainiuose-1-2158353/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_24645143/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-prestiziniame-kauno-mikrorajone-zaliakalnyje-1-2047803/",
+    "ids": [
+        "2047803"
+    ],
+    "address": "Kaunas, Žaliakalnis, Žemaičių g.",
+    "rooms": 4,
+    "area": 63,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "69500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-prestiziniame-kauno-mikrorajone-zaliakalnyje-1-2047803/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "69500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-prestiziniame-kauno-mikrorajone-zaliakalnyje-1-2047803/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "69500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-prestiziniame-kauno-mikrorajone-zaliakalnyje-1-2047803/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "69500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-prestiziniame-kauno-mikrorajone-zaliakalnyje-1-2047803/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "69500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-zemaiciu-g-prestiziniame-kauno-mikrorajone-zaliakalnyje-1-2047803/"
+        }
+    ]
+}

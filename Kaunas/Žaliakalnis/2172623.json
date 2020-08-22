@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34364339/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-tvarkingas-1-kamb-butas-zaliakalnyje-su-1-2172623/",
+    "ids": [
+        "2172623"
+    ],
+    "address": "Kaunas, Žaliakalnis, K. Petrausko g.",
+    "rooms": 1,
+    "area": 30,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "34800",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-tvarkingas-1-kamb-butas-zaliakalnyje-su-1-2172623/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "34800",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-tvarkingas-1-kamb-butas-zaliakalnyje-su-1-2172623/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "34800",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-tvarkingas-1-kamb-butas-zaliakalnyje-su-1-2172623/"
+        }
+    ]
+}

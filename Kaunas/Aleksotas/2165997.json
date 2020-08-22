@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33927587/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-seniavos-pl-3kambariu-butaspilnai-sutvarkytasdujinis-1-2165997/",
+    "ids": [
+        "2165997"
+    ],
+    "address": "Kaunas, Aleksotas, Seniavos pl.",
+    "rooms": 3,
+    "area": 53,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "60300",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-seniavos-pl-3kambariu-butaspilnai-sutvarkytasdujinis-1-2165997/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "60300",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-seniavos-pl-3kambariu-butaspilnai-sutvarkytasdujinis-1-2165997/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "62000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-seniavos-pl-3kambariu-butaspilnai-sutvarkytasdujinis-1-2165997/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "62000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-seniavos-pl-3kambariu-butaspilnai-sutvarkytasdujinis-1-2165997/"
+        }
+    ]
+}

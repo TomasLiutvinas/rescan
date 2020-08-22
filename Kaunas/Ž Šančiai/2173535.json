@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34414229/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-sanciuose-olandu-g-parduodamas-1-kambario-butas-uz-benrabucio-1-2173535/",
+    "ids": [
+        "2173535"
+    ],
+    "address": "Kaunas, Ž. Šančiai, Olandų g.",
+    "rooms": 1,
+    "area": 21,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "9000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-olandu-g-parduodamas-1-kambario-butas-uz-benrabucio-1-2173535/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "9000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-olandu-g-parduodamas-1-kambario-butas-uz-benrabucio-1-2173535/"
+        }
+    ]
+}

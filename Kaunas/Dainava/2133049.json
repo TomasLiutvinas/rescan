@@ -1,0 +1,42 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31147419/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-erdvus-sviesus-2-kambariu-butas-dainavoje-1-2133049/",
+    "ids": [
+        "2133049"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 2,
+    "area": 48,
+    "floor": "5/5",
+    "phones": [
+        "+37060665657",
+        "+37037207209"
+    ],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "37990",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-erdvus-sviesus-2-kambariu-butas-dainavoje-1-2133049/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "37990",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-erdvus-sviesus-2-kambariu-butas-dainavoje-1-2133049/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "37990",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-erdvus-sviesus-2-kambariu-butas-dainavoje-1-2133049/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "37990",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-erdvus-sviesus-2-kambariu-butas-dainavoje-1-2133049/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "39300",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-erdvus-sviesus-2-kambariu-butas-dainavoje-1-2133049/"
+        }
+    ]
+}

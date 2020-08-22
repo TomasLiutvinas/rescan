@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34288573/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-antagynes-g-vaizdingoje-ramioje-vietoje-antagynes-g-1-2171321/",
+    "ids": [
+        "2171321"
+    ],
+    "address": "Kaunas, Lampėdžiai, Antagynės g.",
+    "rooms": 3,
+    "area": 70,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "80000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-antagynes-g-vaizdingoje-ramioje-vietoje-antagynes-g-1-2171321/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "80000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-antagynes-g-vaizdingoje-ramioje-vietoje-antagynes-g-1-2171321/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "80000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-antagynes-g-vaizdingoje-ramioje-vietoje-antagynes-g-1-2171321/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "80000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-antagynes-g-vaizdingoje-ramioje-vietoje-antagynes-g-1-2171321/"
+        }
+    ]
+}

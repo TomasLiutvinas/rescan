@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33212975/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-erdvus-sviesus-butas-per-du-aukstus-1-2158079/",
+    "ids": [
+        "2158079"
+    ],
+    "address": "Kaunas, Senamiestis, Šv. Gertrūdos g.",
+    "rooms": 2,
+    "area": 75,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "119500",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-erdvus-sviesus-butas-per-du-aukstus-1-2158079/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "119500",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-erdvus-sviesus-butas-per-du-aukstus-1-2158079/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "119500",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-erdvus-sviesus-butas-per-du-aukstus-1-2158079/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "119500",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-erdvus-sviesus-butas-per-du-aukstus-1-2158079/"
+        }
+    ]
+}

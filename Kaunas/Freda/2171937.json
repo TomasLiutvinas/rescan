@@ -1,0 +1,21 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-fredoje-t-ivanausko-g-1-2171937/",
+    "ids": [
+        "2171937"
+    ],
+    "address": "Kaunas, Freda, T. Ivanausko g.",
+    "rooms": 3,
+    "area": 85,
+    "floor": "2/3",
+    "phones": [
+        "+37066683688"
+    ],
+    "priceHistory": [
+        {
+            "date": "01/23/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-t-ivanausko-g-1-2171937/"
+        }
+    ]
+}

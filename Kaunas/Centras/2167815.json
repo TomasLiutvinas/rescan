@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34041619/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-parduodamas-kapitaliai-suremontuotas-2-1-2167815/",
+    "ids": [
+        "2167815"
+    ],
+    "address": "Kaunas, Centras, Parodos g.",
+    "rooms": 2,
+    "area": 43,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "61800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-parduodamas-kapitaliai-suremontuotas-2-1-2167815/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "61800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-parduodamas-kapitaliai-suremontuotas-2-1-2167815/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "61800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-parduodamas-kapitaliai-suremontuotas-2-1-2167815/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "61800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-parduodamas-kapitaliai-suremontuotas-2-1-2167815/"
+        }
+    ]
+}

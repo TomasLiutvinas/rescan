@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29836329/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-fredoje-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2079463/",
+    "ids": [
+        "2079463"
+    ],
+    "address": "Kaunas, Freda, Grožio al.",
+    "rooms": 2,
+    "area": 51,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "35500",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2079463/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "35500",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2079463/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "35500",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2079463/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "35500",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2079463/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "35500",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2079463/"
+        }
+    ]
+}

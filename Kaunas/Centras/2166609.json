@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33966791/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-isskirtins-5k-butas-laisves-al-1-2166609/",
+    "ids": [
+        "2166609"
+    ],
+    "address": "Kaunas, Centras, Laisvės al.",
+    "rooms": 5,
+    "area": 135,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "195000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-isskirtins-5k-butas-laisves-al-1-2166609/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "195000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-isskirtins-5k-butas-laisves-al-1-2166609/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "195000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-isskirtins-5k-butas-laisves-al-1-2166609/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "195000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-isskirtins-5k-butas-laisves-al-1-2166609/"
+        }
+    ]
+}

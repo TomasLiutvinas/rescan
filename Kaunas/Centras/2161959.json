@@ -1,0 +1,37 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33601913/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-v-putvinskio-g-parduodamos-negyvenamos-patalpos-kauno-miesto-1-2161959/",
+    "ids": [
+        "2161959"
+    ],
+    "address": "Kaunas, Centras, V. Putvinskio g.",
+    "rooms": 1,
+    "area": 37,
+    "floor": "0/4",
+    "phones": [
+        "+37068789898",
+        "+37069811511"
+    ],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "26500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-v-putvinskio-g-parduodamos-negyvenamos-patalpos-kauno-miesto-1-2161959/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "26500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-v-putvinskio-g-parduodamos-negyvenamos-patalpos-kauno-miesto-1-2161959/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "26500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-v-putvinskio-g-parduodamos-negyvenamos-patalpos-kauno-miesto-1-2161959/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "26500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-v-putvinskio-g-parduodamos-negyvenamos-patalpos-kauno-miesto-1-2161959/"
+        }
+    ]
+}

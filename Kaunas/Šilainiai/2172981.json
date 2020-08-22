@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34390077/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambariu-butas-silainiuose-1-2172981/",
+    "ids": [
+        "2172981"
+    ],
+    "address": "Kaunas, Šilainiai, Baltijos g.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "40800",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambariu-butas-silainiuose-1-2172981/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "40800",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambariu-butas-silainiuose-1-2172981/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "40800",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-2-kambariu-butas-silainiuose-1-2172981/"
+        }
+    ]
+}

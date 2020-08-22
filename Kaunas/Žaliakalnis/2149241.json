@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32125369/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-p-visinskio-g-2-kambariu-butas-zaliakalnyje-su-garazu-1-2149241/",
+    "ids": [
+        "2149241"
+    ],
+    "address": "Kaunas, Žaliakalnis, P. Višinskio g.",
+    "rooms": 2,
+    "area": 47,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "24700",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-p-visinskio-g-2-kambariu-butas-zaliakalnyje-su-garazu-1-2149241/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "24700",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-p-visinskio-g-2-kambariu-butas-zaliakalnyje-su-garazu-1-2149241/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "24700",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-p-visinskio-g-2-kambariu-butas-zaliakalnyje-su-garazu-1-2149241/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "24700",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-p-visinskio-g-2-kambariu-butas-zaliakalnyje-su-garazu-1-2149241/"
+        }
+    ]
+}

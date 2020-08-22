@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34428773/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-azuolyno-g-parduodamas-2-kambariu-butas-siltas-1-2173783/",
+    "ids": [
+        "2173783"
+    ],
+    "address": "Kaunas, Šilainiai, Ąžuolyno g.",
+    "rooms": 2,
+    "area": 44,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-azuolyno-g-parduodamas-2-kambariu-butas-siltas-1-2173783/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-azuolyno-g-parduodamas-2-kambariu-butas-siltas-1-2173783/"
+        }
+    ]
+}

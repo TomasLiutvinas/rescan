@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_30938431/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-siltas-vieno-kambario-butas-1-2110425/",
+    "ids": [
+        "2110425"
+    ],
+    "address": "Kaunas, Žaliakalnis, J. Žemgulio g.",
+    "rooms": 1,
+    "area": 36,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-siltas-vieno-kambario-butas-1-2110425/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-siltas-vieno-kambario-butas-1-2110425/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-siltas-vieno-kambario-butas-1-2110425/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-siltas-vieno-kambario-butas-1-2110425/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33177017/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-zaliakalnio-namai-geram-ir-patogiam-1-2157745/",
+    "ids": [
+        "2157745"
+    ],
+    "address": "Kaunas, Žaliakalnis, J. Žemgulio g.",
+    "rooms": 3,
+    "area": 52,
+    "floor": "6/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-zaliakalnio-namai-geram-ir-patogiam-1-2157745/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-zaliakalnio-namai-geram-ir-patogiam-1-2157745/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-zaliakalnio-namai-geram-ir-patogiam-1-2157745/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "71800",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-zaliakalnio-namai-geram-ir-patogiam-1-2157745/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34327909/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-setos-g-jaukiai-irengtas-2-k-butas-butas-slenyje-1-2171889/",
+    "ids": [
+        "2171889"
+    ],
+    "address": "Kaunas, Šilainiai, Šėtos g.",
+    "rooms": 2,
+    "area": 60,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "92000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-setos-g-jaukiai-irengtas-2-k-butas-butas-slenyje-1-2171889/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "92000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-setos-g-jaukiai-irengtas-2-k-butas-butas-slenyje-1-2171889/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "92000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-setos-g-jaukiai-irengtas-2-k-butas-butas-slenyje-1-2171889/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "92000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-setos-g-jaukiai-irengtas-2-k-butas-butas-slenyje-1-2171889/"
+        }
+    ]
+}

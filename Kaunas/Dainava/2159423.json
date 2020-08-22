@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33353111/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-suremontuotas-vidinis-3-kamb-1-2159423/",
+    "ids": [
+        "2159423"
+    ],
+    "address": "Kaunas, Dainava, Taikos pr.",
+    "rooms": 3,
+    "area": 61,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-suremontuotas-vidinis-3-kamb-1-2159423/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-suremontuotas-vidinis-3-kamb-1-2159423/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-suremontuotas-vidinis-3-kamb-1-2159423/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-suremontuotas-vidinis-3-kamb-1-2159423/"
+        }
+    ]
+}

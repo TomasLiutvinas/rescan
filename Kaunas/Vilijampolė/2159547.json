@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33365219/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-sajungos-a-skubiai-ir-pigiai-parduodamas-vieno-kambario-1-2159547/",
+    "ids": [
+        "2159547"
+    ],
+    "address": "Kaunas, Vilijampolė, Sąjungos a.",
+    "rooms": 1,
+    "area": 10,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "4800",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-sajungos-a-skubiai-ir-pigiai-parduodamas-vieno-kambario-1-2159547/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "4800",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-sajungos-a-skubiai-ir-pigiai-parduodamas-vieno-kambario-1-2159547/"
+        }
+    ]
+}

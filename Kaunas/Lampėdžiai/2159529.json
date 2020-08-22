@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33363243/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-butas-per-2-aukstus-su-irengta-mansarda-1-2159529/",
+    "ids": [
+        "2159529"
+    ],
+    "address": "Kaunas, Lampėdžiai, Pakalnės g.",
+    "rooms": 4,
+    "area": 170,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "135000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-butas-per-2-aukstus-su-irengta-mansarda-1-2159529/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "135000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-butas-per-2-aukstus-su-irengta-mansarda-1-2159529/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "135000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-butas-per-2-aukstus-su-irengta-mansarda-1-2159529/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "135000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-butas-per-2-aukstus-su-irengta-mansarda-1-2159529/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_25404137/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-nestandartinis-2-kambariu-butas-centre-po-1-2057091/",
+    "ids": [
+        "2057091"
+    ],
+    "address": "Kaunas, Centras, Parodos g.",
+    "rooms": 2,
+    "area": 60,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "68500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-nestandartinis-2-kambariu-butas-centre-po-1-2057091/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "68500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-nestandartinis-2-kambariu-butas-centre-po-1-2057091/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "68500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-nestandartinis-2-kambariu-butas-centre-po-1-2057091/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "68500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-nestandartinis-2-kambariu-butas-centre-po-1-2057091/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "68500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-parodos-g-nestandartinis-2-kambariu-butas-centre-po-1-2057091/"
+        }
+    ]
+}

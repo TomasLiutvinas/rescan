@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_27711541/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-bajoru-g-parduodamas-dvieju-kambariu-butas-kauno-1-2086595/",
+    "ids": [
+        "2086595"
+    ],
+    "address": "Kaunas, Vilijampolė, Bajorų g.",
+    "rooms": 2,
+    "area": 54,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-bajoru-g-parduodamas-dvieju-kambariu-butas-kauno-1-2086595/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-bajoru-g-parduodamas-dvieju-kambariu-butas-kauno-1-2086595/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-bajoru-g-parduodamas-dvieju-kambariu-butas-kauno-1-2086595/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-bajoru-g-parduodamas-dvieju-kambariu-butas-kauno-1-2086595/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-bajoru-g-parduodamas-dvieju-kambariu-butas-kauno-1-2086595/"
+        }
+    ]
+}

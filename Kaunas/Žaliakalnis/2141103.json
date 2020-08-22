@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31565381/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-grazinos-g-parduodamas-nestandartinis-naujai-1-2141103/",
+    "ids": [
+        "2141103"
+    ],
+    "address": "Kaunas, Žaliakalnis, Gražinos g.",
+    "rooms": 3,
+    "area": 75,
+    "floor": "3/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "67000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-grazinos-g-parduodamas-nestandartinis-naujai-1-2141103/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "67000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-grazinos-g-parduodamas-nestandartinis-naujai-1-2141103/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "67000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-grazinos-g-parduodamas-nestandartinis-naujai-1-2141103/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "67000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-grazinos-g-parduodamas-nestandartinis-naujai-1-2141103/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "67000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-grazinos-g-parduodamas-nestandartinis-naujai-1-2141103/"
+        }
+    ]
+}

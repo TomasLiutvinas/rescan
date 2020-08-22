@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33258139/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-puikus-2-k-butas-pacioje-kauno-1-2158657/",
+    "ids": [
+        "2158657"
+    ],
+    "address": "Kaunas, Centras, Laisvės al.",
+    "rooms": 2,
+    "area": 62,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-puikus-2-k-butas-pacioje-kauno-1-2158657/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-puikus-2-k-butas-pacioje-kauno-1-2158657/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-puikus-2-k-butas-pacioje-kauno-1-2158657/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-puikus-2-k-butas-pacioje-kauno-1-2158657/"
+        }
+    ]
+}

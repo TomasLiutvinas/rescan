@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32786795/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-sargenuose-ziburiu-g-pilnai-irengtas-kotedzas-kvartalo-planelyje-1-2154461/",
+    "ids": [
+        "2154461"
+    ],
+    "address": "Kaunas, Sargėnai, Žiburių g.",
+    "rooms": 4,
+    "area": 103,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "100000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-ziburiu-g-pilnai-irengtas-kotedzas-kvartalo-planelyje-1-2154461/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "100000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-ziburiu-g-pilnai-irengtas-kotedzas-kvartalo-planelyje-1-2154461/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "100000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-ziburiu-g-pilnai-irengtas-kotedzas-kvartalo-planelyje-1-2154461/"
+        }
+    ]
+}

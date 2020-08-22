@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34194503/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-sukileliu-pr-parduodamas-1-kambario-butas-eiguliuose-1-2170099/",
+    "ids": [
+        "2170099"
+    ],
+    "address": "Kaunas, Eiguliai, Sukilėlių pr.",
+    "rooms": 1,
+    "area": 37,
+    "floor": "7/12",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "33000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-sukileliu-pr-parduodamas-1-kambario-butas-eiguliuose-1-2170099/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "33000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-sukileliu-pr-parduodamas-1-kambario-butas-eiguliuose-1-2170099/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "33000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-sukileliu-pr-parduodamas-1-kambario-butas-eiguliuose-1-2170099/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "33000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-sukileliu-pr-parduodamas-1-kambario-butas-eiguliuose-1-2170099/"
+        }
+    ]
+}

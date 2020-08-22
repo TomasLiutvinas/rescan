@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31174005/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-panemuneje-birutes-g-parduodu-buta-kaunepanemunejebirutes-g-1-2133559/",
+    "ids": [
+        "2133559"
+    ],
+    "address": "Kaunas, Panemunė, Birutės g.",
+    "rooms": 2,
+    "area": 56,
+    "floor": "1/1",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/25/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-birutes-g-parduodu-buta-kaunepanemunejebirutes-g-1-2133559/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-birutes-g-parduodu-buta-kaunepanemunejebirutes-g-1-2133559/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-birutes-g-parduodu-buta-kaunepanemunejebirutes-g-1-2133559/"
+        }
+    ]
+}

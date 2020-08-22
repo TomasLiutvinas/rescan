@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_30559913/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-2-kambariu-butas-kaune-1-2126345/",
+    "ids": [
+        "2126345"
+    ],
+    "address": "Kaunas, Žaliakalnis, J. Žemgulio g.",
+    "rooms": 2,
+    "area": 94,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-2-kambariu-butas-kaune-1-2126345/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-2-kambariu-butas-kaune-1-2126345/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-2-kambariu-butas-kaune-1-2126345/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "87000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-2-kambariu-butas-kaune-1-2126345/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-zemgulio-g-parduodamas-2-kambariu-butas-kaune-1-2126345/"
+        }
+    ]
+}

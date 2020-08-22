@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34174453/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-ntexpertaslt-reikalinga-profesionali-1-2159321/",
+    "ids": [
+        "2159321"
+    ],
+    "address": "Kaunas, Dainava, Kovo 11-osios g.",
+    "rooms": 1,
+    "area": 13,
+    "floor": "9/12",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "7800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-ntexpertaslt-reikalinga-profesionali-1-2159321/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "7800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-ntexpertaslt-reikalinga-profesionali-1-2159321/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "7800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-ntexpertaslt-reikalinga-profesionali-1-2159321/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "7800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-rezervuota-parduodamas-1-kambariu-butas-1-2159321/"
+        }
+    ]
+}

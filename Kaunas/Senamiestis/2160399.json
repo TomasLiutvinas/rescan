@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33457181/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-naujas-projektas-kauno-senamiestyje-nemuno-1-2160399/",
+    "ids": [
+        "2160399"
+    ],
+    "address": "Kaunas, Senamiestis, Nemuno g.",
+    "rooms": 3,
+    "area": 64,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "105600",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-naujas-projektas-kauno-senamiestyje-nemuno-1-2160399/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "105600",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-naujas-projektas-kauno-senamiestyje-nemuno-1-2160399/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "105600",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-naujas-projektas-kauno-senamiestyje-nemuno-1-2160399/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "105600",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-naujas-projektas-kauno-senamiestyje-nemuno-1-2160399/"
+        }
+    ]
+}

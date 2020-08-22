@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-kalnieciu-g-nauji-butai-parduodami-su-daline-vidaus-1-2133595/",
+    "ids": [
+        "2133595"
+    ],
+    "address": "Kaunas, Kalniečiai, Kalniečių g.",
+    "rooms": 2,
+    "area": 39,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-kalnieciu-g-nauji-butai-parduodami-su-daline-vidaus-1-2133595/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-kalnieciu-g-nauji-butai-parduodami-su-daline-vidaus-1-2133595/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-kalnieciu-g-nauji-butai-parduodami-su-daline-vidaus-1-2133595/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-kalnieciu-g-nauji-butai-parduodami-su-daline-vidaus-1-2133595/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "49900",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-kalnieciu-g-nauji-butai-parduodami-su-daline-vidaus-1-2133595/"
+        }
+    ]
+}

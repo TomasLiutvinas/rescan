@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33625419/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-a-ramanausko-vanago-g-parduodamas-3-kambariu-butas-kalnieciuose-1-2162307/",
+    "ids": [
+        "2162307"
+    ],
+    "address": "Kaunas, Kalniečiai, A. Ramanausko-Vanago g.",
+    "rooms": 3,
+    "area": 61,
+    "floor": "8/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "57500",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-a-ramanausko-vanago-g-parduodamas-3-kambariu-butas-kalnieciuose-1-2162307/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "59000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-a-ramanausko-vanago-g-parduodamas-3-kambariu-butas-kalnieciuose-1-2162307/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "59000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-a-ramanausko-vanago-g-parduodamas-3-kambariu-butas-kalnieciuose-1-2162307/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "59000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-a-ramanausko-vanago-g-parduodamas-3-kambariu-butas-kalnieciuose-1-2162307/"
+        }
+    ]
+}

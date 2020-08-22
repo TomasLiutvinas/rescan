@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34303021/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-2-k-butas-salia-poilsio-parko-1-2171509/",
+    "ids": [
+        "2171509"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 2,
+    "area": 48,
+    "floor": "4/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-2-k-butas-salia-poilsio-parko-1-2171509/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-2-k-butas-salia-poilsio-parko-1-2171509/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-2-k-butas-salia-poilsio-parko-1-2171509/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-2-k-butas-salia-poilsio-parko-1-2171509/"
+        }
+    ]
+}

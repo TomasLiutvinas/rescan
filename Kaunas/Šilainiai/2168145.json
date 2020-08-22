@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34066313/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-geroje-vietoje-3k-butas-blokiniame-1987-m-1-2168145/",
+    "ids": [
+        "2168145"
+    ],
+    "address": "Kaunas, Šilainiai, Kuršių g.",
+    "rooms": 3,
+    "area": 60,
+    "floor": "5/12",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "56900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-geroje-vietoje-3k-butas-blokiniame-1987-m-1-2168145/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "56900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-geroje-vietoje-3k-butas-blokiniame-1987-m-1-2168145/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "56900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-geroje-vietoje-3k-butas-blokiniame-1987-m-1-2168145/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "56900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-geroje-vietoje-3k-butas-blokiniame-1987-m-1-2168145/"
+        }
+    ]
+}

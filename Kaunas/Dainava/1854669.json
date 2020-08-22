@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34330161/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-j-tonkuno-g-sauletekio-namai-2-naujos-statybos-su-1-1854669/",
+    "ids": [
+        "1854669"
+    ],
+    "address": "Kaunas, Dainava, J. Tonkūno g.",
+    "rooms": 2,
+    "area": 55,
+    "floor": "1/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "61200",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-j-tonkuno-g-sauletekio-namai-2-naujos-statybos-su-1-1854669/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "61200",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-j-tonkuno-g-sauletekio-namai-2-naujos-statybos-su-1-1854669/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "61200",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-j-tonkuno-g-sauletekio-namai-2-naujos-statybos-su-1-1854669/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "61200",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-j-tonkuno-g-sauletekio-namai-2-naujos-statybos-su-1-1854669/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "61200",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-j-tonkuno-g-sauletekio-namai-2-naujos-statybos-su-1-1854669/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33928757/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-savininkas-brokeriai-nedomina-parduodamas-1-2166005/",
+    "ids": [
+        "2166005"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 2,
+    "area": 45,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-savininkas-brokeriai-nedomina-parduodamas-1-2166005/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-savininkas-brokeriai-nedomina-parduodamas-1-2166005/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-savininkas-brokeriai-nedomina-parduodamas-1-2166005/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-savininkas-brokeriai-nedomina-parduodamas-1-2166005/"
+        }
+    ]
+}

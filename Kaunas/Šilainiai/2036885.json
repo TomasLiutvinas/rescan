@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_23246679/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-kotedzinis-butas-su-balkonu-58-1-2036885/",
+    "ids": [
+        "2036885"
+    ],
+    "address": "Kaunas, Šilainiai, A. Šapokos g.",
+    "rooms": 3,
+    "area": 58,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-kotedzinis-butas-su-balkonu-58-1-2036885/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-kotedzinis-butas-su-balkonu-58-1-2036885/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-kotedzinis-butas-su-balkonu-58-1-2036885/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-kotedzinis-butas-su-balkonu-58-1-2036885/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "37000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-a-sapokos-g-parduodamas-kotedzinis-butas-su-balkonu-58-1-2036885/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34196207/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-su-autonominiu-sildymu-suremontuotas-3-kamb-1-2170129/",
+    "ids": [
+        "2170129"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 3,
+    "area": 54,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-su-autonominiu-sildymu-suremontuotas-3-kamb-1-2170129/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-su-autonominiu-sildymu-suremontuotas-3-kamb-1-2170129/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-su-autonominiu-sildymu-suremontuotas-3-kamb-1-2170129/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-su-autonominiu-sildymu-suremontuotas-3-kamb-1-2170129/"
+        }
+    ]
+}

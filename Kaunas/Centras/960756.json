@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_1816595/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-nemuno-g-itin-geras-buto-isplanavimas-koridorine-1-960756/",
+    "ids": [
+        "960756"
+    ],
+    "address": "Kaunas, Centras, Nemuno g.",
+    "rooms": 3,
+    "area": 70,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "78000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-nemuno-g-itin-geras-buto-isplanavimas-koridorine-1-960756/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "78000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-nemuno-g-itin-geras-buto-isplanavimas-koridorine-1-960756/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "78000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-nemuno-g-itin-geras-buto-isplanavimas-koridorine-1-960756/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "78000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-nemuno-g-itin-geras-buto-isplanavimas-koridorine-1-960756/"
+        }
+    ]
+}

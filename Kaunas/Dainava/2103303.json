@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31485105/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-butai-vienoje-patogiausiu-miesto-vietu-http-1-2103303/",
+    "ids": [
+        "2103303"
+    ],
+    "address": "Kaunas, Dainava, Kovo 11-osios g.",
+    "rooms": 2,
+    "area": 43,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-butai-vienoje-patogiausiu-miesto-vietu-http-1-2103303/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-butai-vienoje-patogiausiu-miesto-vietu-http-1-2103303/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-butai-vienoje-patogiausiu-miesto-vietu-http-1-2103303/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-butai-vienoje-patogiausiu-miesto-vietu-http-1-2103303/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-butai-vienoje-patogiausiu-miesto-vietu-http-1-2103303/"
+        }
+    ]
+}

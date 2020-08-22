@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32997079/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-labai-geroje-vietoje-triju-1-2156251/",
+    "ids": [
+        "2156251"
+    ],
+    "address": "Kaunas, Dainava, Kovo 11-osios g.",
+    "rooms": 3,
+    "area": 61,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "46000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-labai-geroje-vietoje-triju-1-2156251/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "46000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-labai-geroje-vietoje-triju-1-2156251/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "46000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-labai-geroje-vietoje-triju-1-2156251/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "46000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-parduodamas-labai-geroje-vietoje-triju-1-2156251/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33501965/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-parduodamas-erdvus-5-kmb-butas-senamiestyje-1-2161001/",
+    "ids": [
+        "2161001"
+    ],
+    "address": "Kaunas, Senamiestis, Šv. Gertrūdos g.",
+    "rooms": 5,
+    "area": 141,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "170000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-parduodamas-erdvus-5-kmb-butas-senamiestyje-1-2161001/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "170000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-parduodamas-erdvus-5-kmb-butas-senamiestyje-1-2161001/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "170000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-parduodamas-erdvus-5-kmb-butas-senamiestyje-1-2161001/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "170000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-sv-gertrudos-g-parduodamas-erdvus-5-kmb-butas-senamiestyje-1-2161001/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33538861/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-sviesus-ir-siltas-naujai-suremontuotas-1-2161295/",
+    "ids": [
+        "2161295"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 4,
+    "area": 64,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "49500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-sviesus-ir-siltas-naujai-suremontuotas-1-2161295/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "49500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-sviesus-ir-siltas-naujai-suremontuotas-1-2161295/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "49500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-sviesus-ir-siltas-naujai-suremontuotas-1-2161295/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "49500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-sviesus-ir-siltas-naujai-suremontuotas-1-2161295/"
+        }
+    ]
+}

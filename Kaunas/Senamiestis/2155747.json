@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32925733/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-i-kanto-g-prabangiame-multifunkciniame-komplekse-1-2155747/",
+    "ids": [
+        "2155747"
+    ],
+    "address": "Kaunas, Senamiestis, I. Kanto g.",
+    "rooms": 3,
+    "area": 118,
+    "floor": "4/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "289000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-i-kanto-g-prabangiame-multifunkciniame-komplekse-1-2155747/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "289000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-i-kanto-g-prabangiame-multifunkciniame-komplekse-1-2155747/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "289000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-i-kanto-g-prabangiame-multifunkciniame-komplekse-1-2155747/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "289000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-i-kanto-g-prabangiame-multifunkciniame-komplekse-1-2155747/"
+        }
+    ]
+}

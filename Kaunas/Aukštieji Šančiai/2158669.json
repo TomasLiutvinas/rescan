@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33258783/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-hipodromo-g-palankioje-vietoje-3-kambariai-kaune-1-2158669/",
+    "ids": [
+        "2158669"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Hipodromo g.",
+    "rooms": 3,
+    "area": 61,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "33500",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-hipodromo-g-palankioje-vietoje-3-kambariai-kaune-1-2158669/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "33500",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-hipodromo-g-palankioje-vietoje-3-kambariai-kaune-1-2158669/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "34000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-hipodromo-g-palankioje-vietoje-3-kambariai-kaune-1-2158669/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "34000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-hipodromo-g-palankioje-vietoje-3-kambariai-kaune-1-2158669/"
+        }
+    ]
+}

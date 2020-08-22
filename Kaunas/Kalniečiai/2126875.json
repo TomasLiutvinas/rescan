@@ -1,0 +1,42 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_30629997/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-gelezinio-vilko-g-parduodamas-dvieju-kambariu-butas-gelezinio-1-2126875/",
+    "ids": [
+        "2126875"
+    ],
+    "address": "Kaunas, Kalniečiai, Geležinio Vilko g.",
+    "rooms": 2,
+    "area": 49,
+    "floor": "1/5",
+    "phones": [
+        "+37069836666",
+        "+37060182723"
+    ],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "38000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-gelezinio-vilko-g-parduodamas-dvieju-kambariu-butas-gelezinio-1-2126875/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "38000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-gelezinio-vilko-g-parduodamas-dvieju-kambariu-butas-gelezinio-1-2126875/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "38000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-gelezinio-vilko-g-parduodamas-dvieju-kambariu-butas-gelezinio-1-2126875/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "38000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-gelezinio-vilko-g-parduodamas-dvieju-kambariu-butas-gelezinio-1-2126875/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "39500",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-gelezinio-vilko-g-parduodamas-dvieju-kambariu-butas-gelezinio-1-2126875/"
+        }
+    ]
+}

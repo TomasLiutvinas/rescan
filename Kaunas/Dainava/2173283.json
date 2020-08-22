@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34402023/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-nestandartinis-3-kambariu-butas-1-2173283/",
+    "ids": [
+        "2173283"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 3,
+    "area": 54,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-nestandartinis-3-kambariu-butas-1-2173283/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-nestandartinis-3-kambariu-butas-1-2173283/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-nestandartinis-3-kambariu-butas-1-2173283/"
+        }
+    ]
+}

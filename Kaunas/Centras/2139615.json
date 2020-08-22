@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31499419/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-karaliaus-mindaugo-pr-parduodamas-4-iu-kambariu-butas-karaliaus-1-2139615/",
+    "ids": [
+        "2139615"
+    ],
+    "address": "Kaunas, Centras, Karaliaus Mindaugo pr.",
+    "rooms": 4,
+    "area": 64,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "85255",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-karaliaus-mindaugo-pr-parduodamas-4-iu-kambariu-butas-karaliaus-1-2139615/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "85255",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-karaliaus-mindaugo-pr-parduodamas-4-iu-kambariu-butas-karaliaus-1-2139615/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "85255",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-karaliaus-mindaugo-pr-parduodamas-4-iu-kambariu-butas-karaliaus-1-2139615/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "85255",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-karaliaus-mindaugo-pr-parduodamas-4-iu-kambariu-butas-karaliaus-1-2139615/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "85255",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-karaliaus-mindaugo-pr-parduodamas-4-iu-kambariu-butas-karaliaus-1-2139615/"
+        }
+    ]
+}

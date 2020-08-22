@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31907779/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-parduodamas-geras-tvarkingas-rekonstruotas-3-1-2145929/",
+    "ids": [
+        "2145929"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Medvėgalio g.",
+    "rooms": 3,
+    "area": 66,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "43000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-parduodamas-geras-tvarkingas-rekonstruotas-3-1-2145929/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "43000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-parduodamas-geras-tvarkingas-rekonstruotas-3-1-2145929/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "43000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-parduodamas-geras-tvarkingas-rekonstruotas-3-1-2145929/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "43000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-parduodamas-geras-tvarkingas-rekonstruotas-3-1-2145929/"
+        }
+    ]
+}

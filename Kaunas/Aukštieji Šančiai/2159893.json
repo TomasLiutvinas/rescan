@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33416529/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-prancuzu-g-muriniame-name-3-k-butas-39-a-geras-1-2159893/",
+    "ids": [
+        "2159893"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Prancūzų g.",
+    "rooms": 3,
+    "area": 66,
+    "floor": "3/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-prancuzu-g-muriniame-name-3-k-butas-39-a-geras-1-2159893/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-prancuzu-g-muriniame-name-3-k-butas-39-a-geras-1-2159893/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-prancuzu-g-muriniame-name-3-k-butas-39-a-geras-1-2159893/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-prancuzu-g-muriniame-name-3-k-butas-39-a-geras-1-2159893/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_30679975/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-parduodamas-2-kambariu-butas-su-baldais-1-2127821/",
+    "ids": [
+        "2127821"
+    ],
+    "address": "Kaunas, Aleksotas, Antakalnio g.",
+    "rooms": 2,
+    "area": 48,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "42900",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-parduodamas-2-kambariu-butas-su-baldais-1-2127821/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "42900",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-parduodamas-2-kambariu-butas-su-baldais-1-2127821/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "42900",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-parduodamas-2-kambariu-butas-su-baldais-1-2127821/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "42900",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-parduodamas-2-kambariu-butas-su-baldais-1-2127821/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "42900",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-parduodamas-2-kambariu-butas-su-baldais-1-2127821/"
+        }
+    ]
+}

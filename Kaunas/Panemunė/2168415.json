@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34082507/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-gero-isplanavimo-4-kambariu-butas-55-mur-1-2168415/",
+    "ids": [
+        "2168415"
+    ],
+    "address": "Kaunas, Panemunė, Plento g.",
+    "rooms": 4,
+    "area": 77,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "39000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-gero-isplanavimo-4-kambariu-butas-55-mur-1-2168415/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "39000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-gero-isplanavimo-4-kambariu-butas-55-mur-1-2168415/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "39000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-gero-isplanavimo-4-kambariu-butas-55-mur-1-2168415/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "39000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-gero-isplanavimo-4-kambariu-butas-55-mur-1-2168415/"
+        }
+    ]
+}

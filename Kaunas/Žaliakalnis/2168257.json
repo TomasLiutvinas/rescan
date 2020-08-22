@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34082753/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-parduodamas-3-ju-kambariu-1-2168257/",
+    "ids": [
+        "2168257"
+    ],
+    "address": "Kaunas, Žaliakalnis, Gričiupio g.",
+    "rooms": 3,
+    "area": 56,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "68029",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-parduodamas-3-ju-kambariu-1-2168257/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "68029",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-parduodamas-3-ju-kambariu-1-2168257/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "68976",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-parduodamas-erdvus-2-ju-1-2168257/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "68976",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-parduodamas-erdvus-2-ju-1-2168257/"
+        }
+    ]
+}

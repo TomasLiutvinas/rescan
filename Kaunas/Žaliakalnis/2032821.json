@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_28593959/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-vyduno-al-parduodamas-siltas-tvarkingas-1-2032821/",
+    "ids": [
+        "2032821"
+    ],
+    "address": "Kaunas, Žaliakalnis, Vydūno al.",
+    "rooms": 2,
+    "area": 51,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "51899",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-vyduno-al-parduodamas-siltas-tvarkingas-1-2032821/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "51899",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-vyduno-al-parduodamas-siltas-tvarkingas-1-2032821/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "51899",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-vyduno-al-parduodamas-siltas-tvarkingas-1-2032821/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "51899",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-vyduno-al-parduodamas-siltas-tvarkingas-1-2032821/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "51900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-vyduno-al-parduodamas-siltas-tvarkingas-1-2032821/"
+        }
+    ]
+}

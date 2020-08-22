@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33802651/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-2-kambariu-renovuotas-butas-gero-1-2138867/",
+    "ids": [
+        "2138867"
+    ],
+    "address": "Kaunas, Dainava, Taikos pr.",
+    "rooms": 2,
+    "area": 52,
+    "floor": "1/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-2-kambariu-renovuotas-butas-gero-1-2138867/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-2-kambariu-renovuotas-butas-gero-1-2138867/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-2-kambariu-renovuotas-butas-gero-1-2138867/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-2-kambariu-renovuotas-butas-gero-1-2138867/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "47000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-2-kambariu-renovuotas-butas-gero-1-2138867/"
+        }
+    ]
+}

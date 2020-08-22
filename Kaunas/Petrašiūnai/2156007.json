@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32963269/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-jaukus-tvarkingas-bendrabucio-1-2156007/",
+    "ids": [
+        "2156007"
+    ],
+    "address": "Kaunas, Petrašiūnai, T. Masiulio g.",
+    "rooms": 1,
+    "area": 25,
+    "floor": "4/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "13600",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-jaukus-tvarkingas-bendrabucio-1-2156007/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "13600",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-jaukus-tvarkingas-bendrabucio-1-2156007/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "13600",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-jaukus-tvarkingas-bendrabucio-1-2156007/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "13600",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-jaukus-tvarkingas-bendrabucio-1-2156007/"
+        }
+    ]
+}

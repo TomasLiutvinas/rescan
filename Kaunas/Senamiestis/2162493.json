@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33641079/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vasario-16-osios-g-butas-viename-is-graziausiu-kauno-senamiescio-1-2162493/",
+    "ids": [
+        "2162493"
+    ],
+    "address": "Kaunas, Senamiestis, Vasario 16-osios g.",
+    "rooms": 3,
+    "area": 81,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "63000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vasario-16-osios-g-butas-viename-is-graziausiu-kauno-senamiescio-1-2162493/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vasario-16-osios-g-butas-viename-is-graziausiu-kauno-senamiescio-1-2162493/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vasario-16-osios-g-butas-viename-is-graziausiu-kauno-senamiescio-1-2162493/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vasario-16-osios-g-butas-viename-is-graziausiu-kauno-senamiescio-1-2162493/"
+        }
+    ]
+}

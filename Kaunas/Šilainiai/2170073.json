@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-rietavo-g-parduodamas-tvarkingas-vieno-kambario-butas-1-2170073/",
+    "ids": [
+        "2170073"
+    ],
+    "address": "Kaunas, Šilainiai, Rietavo g.",
+    "rooms": 1,
+    "area": 37,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "37000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-rietavo-g-parduodamas-tvarkingas-vieno-kambario-butas-1-2170073/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "37000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-rietavo-g-parduodamas-tvarkingas-vieno-kambario-butas-1-2170073/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "37000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-rietavo-g-parduodamas-tvarkingas-vieno-kambario-butas-1-2170073/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "37000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-rietavo-g-parduodamas-tvarkingas-vieno-kambario-butas-1-2170073/"
+        }
+    ]
+}

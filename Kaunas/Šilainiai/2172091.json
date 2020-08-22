@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34333595/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-jotvingiu-g-naujas-modernus-kapitalinis-europinis-1-2172091/",
+    "ids": [
+        "2172091"
+    ],
+    "address": "Kaunas, Šilainiai, Jotvingių g.",
+    "rooms": 4,
+    "area": 81,
+    "floor": "9/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "61900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-jotvingiu-g-naujas-modernus-kapitalinis-europinis-1-2172091/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "61900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-jotvingiu-g-naujas-modernus-kapitalinis-europinis-1-2172091/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "63900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-jotvingiu-g-naujas-modernus-kapitalinis-europinis-1-2172091/"
+        }
+    ]
+}

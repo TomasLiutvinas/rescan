@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32170311/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-2-k-butas-kaune-petrasiunuose-1-2149733/",
+    "ids": [
+        "2149733"
+    ],
+    "address": "Kaunas, Petrašiūnai, T. Masiulio g.",
+    "rooms": 2,
+    "area": 42,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "26500",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-2-k-butas-kaune-petrasiunuose-1-2149733/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "26500",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-2-k-butas-kaune-petrasiunuose-1-2149733/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "26500",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-2-k-butas-kaune-petrasiunuose-1-2149733/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "26500",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-t-masiulio-g-parduodamas-2-k-butas-kaune-petrasiunuose-1-2149733/"
+        }
+    ]
+}

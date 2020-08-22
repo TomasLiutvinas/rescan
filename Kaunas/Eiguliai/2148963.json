@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32613661/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g--parduodamas-2-kambariu-butas-eiguliuose-1-2148963/",
+    "ids": [
+        "2148963"
+    ],
+    "address": "Kaunas, Eiguliai, S. Žukausko g.",
+    "rooms": 2,
+    "area": 52,
+    "floor": "8/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g--parduodamas-2-kambariu-butas-eiguliuose-1-2148963/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g--parduodamas-2-kambariu-butas-eiguliuose-1-2148963/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g--parduodamas-2-kambariu-butas-eiguliuose-1-2148963/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g--parduodamas-2-kambariu-butas-eiguliuose-1-2148963/"
+        }
+    ]
+}

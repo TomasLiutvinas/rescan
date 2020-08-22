@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33945867/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g-erdvus-vidinis-keturiu-kambariu-butas-1-2166177/",
+    "ids": [
+        "2166177"
+    ],
+    "address": "Kaunas, Eiguliai, S. Žukausko g.",
+    "rooms": 4,
+    "area": 78,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45500",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g-erdvus-vidinis-keturiu-kambariu-butas-1-2166177/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45500",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g-erdvus-vidinis-keturiu-kambariu-butas-1-2166177/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "45500",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g-erdvus-vidinis-keturiu-kambariu-butas-1-2166177/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "45500",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-s-zukausko-g-erdvus-vidinis-keturiu-kambariu-butas-1-2166177/"
+        }
+    ]
+}

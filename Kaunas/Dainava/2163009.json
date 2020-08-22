@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33707627/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-savanoriu-pr-kaune-dainavoje-savanoriu-pr-parduodamas-1-2163009/",
+    "ids": [
+        "2163009"
+    ],
+    "address": "Kaunas, Dainava, Savanorių pr.",
+    "rooms": 3,
+    "area": 69,
+    "floor": "4/12",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-savanoriu-pr-kaune-dainavoje-savanoriu-pr-parduodamas-1-2163009/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-savanoriu-pr-kaune-dainavoje-savanoriu-pr-parduodamas-1-2163009/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-savanoriu-pr-kaune-dainavoje-savanoriu-pr-parduodamas-1-2163009/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-savanoriu-pr-kaune-dainavoje-savanoriu-pr-parduodamas-1-2163009/"
+        }
+    ]
+}

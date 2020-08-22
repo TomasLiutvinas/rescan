@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34370637/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-muriniame-name-parduodamas-1-kamb-butas-1-2172625/",
+    "ids": [
+        "2172625"
+    ],
+    "address": "Kaunas, Panemunė, Plento g.",
+    "rooms": 1,
+    "area": 34,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "22000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-muriniame-name-parduodamas-1-kamb-butas-1-2172625/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "22000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-muriniame-name-parduodamas-1-kamb-butas-1-2172625/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "22000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-muriniame-name-parduodamas-1-kamb-butas-1-2172625/"
+        }
+    ]
+}

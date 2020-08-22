@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31820277/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vytenuose-vyteliu-g-parduodamas-3-kambariu-sviesus-1-2144887/",
+    "ids": [
+        "2144887"
+    ],
+    "address": "Kaunas, Vytėnai, Vytelių g.",
+    "rooms": 3,
+    "area": 78,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "76723",
+            "url": "http://www.aruodas.lt/butai-kaune-vytenuose-vyteliu-g-parduodamas-3-kambariu-sviesus-1-2144887/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "76723",
+            "url": "http://www.aruodas.lt/butai-kaune-vytenuose-vyteliu-g-parduodamas-3-kambariu-sviesus-1-2144887/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "76723",
+            "url": "http://www.aruodas.lt/butai-kaune-vytenuose-vyteliu-g-parduodamas-3-kambariu-sviesus-1-2144887/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "76723",
+            "url": "http://www.aruodas.lt/butai-kaune-vytenuose-vyteliu-g-parduodamas-3-kambariu-sviesus-1-2144887/"
+        }
+    ]
+}

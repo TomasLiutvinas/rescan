@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34390409/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-jaukus-vidinis-siltas-3-kambariu-butas-1-2172995/",
+    "ids": [
+        "2172995"
+    ],
+    "address": "Kaunas, Šilainiai, Baltijos g.",
+    "rooms": 3,
+    "area": 74,
+    "floor": "6/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "57000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-jaukus-vidinis-siltas-3-kambariu-butas-1-2172995/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "57000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-jaukus-vidinis-siltas-3-kambariu-butas-1-2172995/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "57000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-jaukus-vidinis-siltas-3-kambariu-butas-1-2172995/"
+        }
+    ]
+}

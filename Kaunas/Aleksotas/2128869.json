@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_30745737/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-rezervuotas-parduodamas-jaukus-3-kambariu-1-2128869/",
+    "ids": [
+        "2128869"
+    ],
+    "address": "Kaunas, Aleksotas, Antakalnio g.",
+    "rooms": 3,
+    "area": 57,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "49800",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-rezervuotas-parduodamas-jaukus-3-kambariu-1-2128869/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "49800",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-rezervuotas-parduodamas-jaukus-3-kambariu-1-2128869/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "49800",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-rezervuotas-parduodamas-jaukus-3-kambariu-1-2128869/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "49800",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-antakalnio-g-parduodamas-jaukus-3-kambariu-butas-su-1-2128869/"
+        }
+    ]
+}

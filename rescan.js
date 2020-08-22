@@ -127,7 +127,7 @@ function writeObjectToFile(directory, filename, object){
     //direcotory == kaunas\\eiguliai
     //filename == 2341234
 
-    var dir = 'C:\\Users\\Tomas\\Documents\\GitHub\\rescan\\db\\';
+    var dir = 'C:\\Users\\tehdr\\Desktop\\Programming\\rescan\\db\\';
 
     dir += directory.replace('.', '').replace('.', '');
     

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33967539/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-popieriaus-g-parduodamas-3-k-kambariu-butas-dainavoje-1-2166615/",
+    "ids": [
+        "2166615"
+    ],
+    "address": "Kaunas, Dainava, Popieriaus g.",
+    "rooms": 3,
+    "area": 116,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "69900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-popieriaus-g-parduodamas-3-k-kambariu-butas-dainavoje-1-2166615/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "69900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-popieriaus-g-parduodamas-3-k-kambariu-butas-dainavoje-1-2166615/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "69900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-popieriaus-g-parduodamas-3-k-kambariu-butas-dainavoje-1-2166615/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "69900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-popieriaus-g-parduodamas-3-k-kambariu-butas-dainavoje-1-2166615/"
+        }
+    ]
+}

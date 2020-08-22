@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29237389/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-kambariai-215-17-kvm-nepereinami-1-2108171/",
+    "ids": [
+        "2108171"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Medvėgalio g.",
+    "rooms": 2,
+    "area": 51,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-kambariai-215-17-kvm-nepereinami-1-2108171/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-kambariai-215-17-kvm-nepereinami-1-2108171/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-kambariai-215-17-kvm-nepereinami-1-2108171/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-kambariai-215-17-kvm-nepereinami-1-2108171/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-medvegalio-g-kambariai-215-17-kvm-nepereinami-1-2108171/"
+        }
+    ]
+}

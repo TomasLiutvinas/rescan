@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33831491/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-3-k-butas-silainiuose-baltijos-1-2164625/",
+    "ids": [
+        "2164625"
+    ],
+    "address": "Kaunas, Šilainiai, Baltijos g.",
+    "rooms": 3,
+    "area": 70,
+    "floor": "1/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "53900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-3-k-butas-silainiuose-baltijos-1-2164625/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "53900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-3-k-butas-silainiuose-baltijos-1-2164625/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "53900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-3-k-butas-silainiuose-baltijos-1-2164625/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "53900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-3-k-butas-silainiuose-baltijos-1-2164625/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31589545/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-riesutu-g-super-geras-varijantasbutui-reikalingas-1-2141351/",
+    "ids": [
+        "2141351"
+    ],
+    "address": "Kaunas, Žaliakalnis, Riešutų g.",
+    "rooms": 1,
+    "area": 34,
+    "floor": "3/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "26000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-riesutu-g-super-geras-varijantasbutui-reikalingas-1-2141351/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "26000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-riesutu-g-super-geras-varijantasbutui-reikalingas-1-2141351/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "26000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-riesutu-g-super-geras-varijantasbutui-reikalingas-1-2141351/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "26000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-riesutu-g-super-geras-varijantasbutui-reikalingas-1-2141351/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-riesutu-g-butui-reikalingas-remontas-taciau-jis-yra-1-2141351/"
+        }
+    ]
+}

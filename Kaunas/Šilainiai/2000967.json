@@ -1,0 +1,41 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_23674283/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-naujam-statomame-name-parduodamas-2-ju-1-2000967/",
+    "ids": [
+        "2000967"
+    ],
+    "address": "Kaunas, Šilainiai, Beržų g.",
+    "rooms": 2,
+    "area": 49,
+    "floor": "1/2",
+    "phones": [
+        "+37064338549"
+    ],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "34500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-naujam-statomame-name-parduodamas-2-ju-1-2000967/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "34500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-naujam-statomame-name-parduodamas-2-ju-1-2000967/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "34500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-naujam-statomame-name-parduodamas-2-ju-1-2000967/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "34500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-berzu-g-naujam-statomame-name-parduodamas-2-ju-1-2000967/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "34500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-azuolyno-g-naujam-statomame-name-parduodamas-2-ju-1-2000967/"
+        }
+    ]
+}

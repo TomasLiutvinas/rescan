@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31944117/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-romainiuose-lubinu-g-parduodami-naujos-statybos-kotedzai-1-1981524/",
+    "ids": [
+        "1981524"
+    ],
+    "address": "Kaunas, Romainiai, Lubinų g.",
+    "rooms": 3,
+    "area": 68,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "51800",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-lubinu-g-parduodami-naujos-statybos-kotedzai-1-1981524/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "51800",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-lubinu-g-parduodami-naujos-statybos-kotedzai-1-1981524/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "51800",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-lubinu-g-parduodami-naujos-statybos-kotedzai-1-1981524/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "51800",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-lubinu-g-parduodami-naujos-statybos-kotedzai-1-1981524/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "47500",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-romainiskiu-g-parduodami-naujos-statybos-kotedzai-1-1981524/"
+        }
+    ]
+}

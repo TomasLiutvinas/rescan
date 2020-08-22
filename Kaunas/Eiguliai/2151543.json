@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32402919/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-korio-namas-tai-silti-ir-jaukus-namai-1-2151543/",
+    "ids": [
+        "2151543"
+    ],
+    "address": "Kaunas, Eiguliai, Kalniečių g.",
+    "rooms": 3,
+    "area": 75,
+    "floor": "6/8",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "104562",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-korio-namas-tai-silti-ir-jaukus-namai-1-2151543/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "104562",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-korio-namas-tai-silti-ir-jaukus-namai-1-2151543/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "104562",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-korio-namas-tai-silti-ir-jaukus-namai-1-2151543/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "104562",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-korio-namas-tai-silti-ir-jaukus-namai-1-2151543/"
+        }
+    ]
+}

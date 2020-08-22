@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34275573/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-kauno-centre-e-ozeskienes-gatveje-1-2171147/",
+    "ids": [
+        "2171147"
+    ],
+    "address": "Kaunas, Centras, E. Ožeškienės g.",
+    "rooms": 2,
+    "area": 73,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "115000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-kauno-centre-e-ozeskienes-gatveje-1-2171147/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "115000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-kauno-centre-e-ozeskienes-gatveje-1-2171147/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "115000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-kauno-centre-e-ozeskienes-gatveje-1-2171147/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "115000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-e-ozeskienes-g-kauno-centre-e-ozeskienes-gatveje-1-2171147/"
+        }
+    ]
+}

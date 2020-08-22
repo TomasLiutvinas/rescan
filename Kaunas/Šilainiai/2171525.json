@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34413019/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-super-pasiulymas-su-visais-baldais-ir-buitine-1-2171525/",
+    "ids": [
+        "2171525"
+    ],
+    "address": "Kaunas, Šilainiai, Baltų pr.",
+    "rooms": 3,
+    "area": 60,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-super-pasiulymas-su-visais-baldais-ir-buitine-1-2171525/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-super-pasiulymas-su-visais-baldais-ir-buitine-1-2171525/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-super-pasiulymas-su-visais-baldais-ir-buitine-1-2171525/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "54000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-siltas-ir-sviesus-3ju-kambariu-butas-1-2171525/"
+        }
+    ]
+}

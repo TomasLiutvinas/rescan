@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_28956331/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-parduodamas-triju-kambariu-butas-1994m-1-2103541/",
+    "ids": [
+        "2103541"
+    ],
+    "address": "Kaunas, Lampėdžiai, Pakalnės g.",
+    "rooms": 3,
+    "area": 67,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "62000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-parduodamas-triju-kambariu-butas-1994m-1-2103541/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "62000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-parduodamas-triju-kambariu-butas-1994m-1-2103541/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "62000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-parduodamas-triju-kambariu-butas-1994m-1-2103541/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "62000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-pakalnes-g-parduodamas-triju-kambariu-butas-1994m-1-2103541/"
+        }
+    ]
+}

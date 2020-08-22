@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33787433/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-basanaviciaus-al-parduodamas-puikios-bukles-2-ju-kambariu-1-2163713/",
+    "ids": [
+        "2163713"
+    ],
+    "address": "Kaunas, Žaliakalnis, J. Basanavičiaus al.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "2/10",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "52500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-basanaviciaus-al-parduodamas-puikios-bukles-2-ju-kambariu-1-2163713/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "52500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-basanaviciaus-al-parduodamas-puikios-bukles-2-ju-kambariu-1-2163713/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "52500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-basanaviciaus-al-parduodamas-puikios-bukles-2-ju-kambariu-1-2163713/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "52500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-j-basanaviciaus-al-parduodamas-puikios-bukles-2-ju-kambariu-1-2163713/"
+        }
+    ]
+}

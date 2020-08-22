@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31989045/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g-parduodame-naujos-statybos-palepinio-tipo-1-2147147/",
+    "ids": [
+        "2147147"
+    ],
+    "address": "Kaunas, Centras, Miško g.",
+    "rooms": 2,
+    "area": 49,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g-parduodame-naujos-statybos-palepinio-tipo-1-2147147/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g-parduodame-naujos-statybos-palepinio-tipo-1-2147147/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g-parduodame-naujos-statybos-palepinio-tipo-1-2147147/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g-parduodame-naujos-statybos-palepinio-tipo-1-2147147/"
+        }
+    ]
+}

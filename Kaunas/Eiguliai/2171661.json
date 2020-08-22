@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34312107/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-parduodamas-33-kv-m-1-k-butas-asigalio-g-1-2171661/",
+    "ids": [
+        "2171661"
+    ],
+    "address": "Kaunas, Eiguliai, Ašigalio g.",
+    "rooms": 1,
+    "area": 33,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-parduodamas-33-kv-m-1-k-butas-asigalio-g-1-2171661/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-parduodamas-33-kv-m-1-k-butas-asigalio-g-1-2171661/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-parduodamas-33-kv-m-1-k-butas-asigalio-g-1-2171661/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "27000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-parduodamas-33-kv-m-1-k-butas-asigalio-g-1-2171661/"
+        }
+    ]
+}

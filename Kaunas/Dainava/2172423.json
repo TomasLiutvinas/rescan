@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34359307/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-tvarkingai-suremontuotas-butas-1-2172423/",
+    "ids": [
+        "2172423"
+    ],
+    "address": "Kaunas, Dainava, Pramonės pr.",
+    "rooms": 3,
+    "area": 48,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "37000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-tvarkingai-suremontuotas-butas-1-2172423/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "37000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-tvarkingai-suremontuotas-butas-1-2172423/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "37000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-tvarkingai-suremontuotas-butas-1-2172423/"
+        }
+    ]
+}

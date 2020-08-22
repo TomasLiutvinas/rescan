@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_22589125/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-butas-bendras-plotas-su-balkonu-58-kv-m-1-2027723/",
+    "ids": [
+        "2027723"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 2,
+    "area": 58,
+    "floor": "4/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-butas-bendras-plotas-su-balkonu-58-kv-m-1-2027723/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-butas-bendras-plotas-su-balkonu-58-kv-m-1-2027723/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-butas-bendras-plotas-su-balkonu-58-kv-m-1-2027723/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "72000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-butas-bendras-plotas-su-balkonu-58-kv-m-1-2027723/"
+        }
+    ]
+}

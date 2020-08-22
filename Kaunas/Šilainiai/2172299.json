@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34352155/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-3-k-butas-su-graziu-vaizdu-pro-langus-1-2172299/",
+    "ids": [
+        "2172299"
+    ],
+    "address": "Kaunas, Šilainiai, Kuršių g.",
+    "rooms": 3,
+    "area": 68,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-3-k-butas-su-graziu-vaizdu-pro-langus-1-2172299/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-3-k-butas-su-graziu-vaizdu-pro-langus-1-2172299/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-3-k-butas-su-graziu-vaizdu-pro-langus-1-2172299/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_24390155/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-silainiose-ramioj-gatvei-tarp-nuosavu-1-2046021/",
+    "ids": [
+        "2046021"
+    ],
+    "address": "Kaunas, Šilainiai, Mosėdžio g.",
+    "rooms": 5,
+    "area": 127,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-silainiose-ramioj-gatvei-tarp-nuosavu-1-2046021/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-silainiose-ramioj-gatvei-tarp-nuosavu-1-2046021/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-silainiose-ramioj-gatvei-tarp-nuosavu-1-2046021/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-silainiose-ramioj-gatvei-tarp-nuosavu-1-2046021/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "110000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-silainiose-ramioj-gatvei-tarp-nuosavu-1-2046021/"
+        }
+    ]
+}

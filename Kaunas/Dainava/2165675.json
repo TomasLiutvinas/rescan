@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33974143/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-detali-informacija-telefonu-arba-elektroniniu-1-2165675/",
+    "ids": [
+        "2165675"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 3,
+    "area": 61,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "42990",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-detali-informacija-telefonu-arba-elektroniniu-1-2165675/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "42990",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-detali-informacija-telefonu-arba-elektroniniu-1-2165675/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "42990",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-detali-informacija-telefonu-arba-elektroniniu-1-2165675/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "42990",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-detali-informacija-telefonu-arba-elektroniniu-1-2165675/"
+        }
+    ]
+}

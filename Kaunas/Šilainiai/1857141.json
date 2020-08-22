@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34109629/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-miegamasis-1394-kvm-1-1857141/",
+    "ids": [
+        "1857141"
+    ],
+    "address": "Kaunas, Šilainiai, Kalnų g.",
+    "rooms": 3,
+    "area": 72,
+    "floor": "1/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "115728",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-miegamasis-1394-kvm-1-1857141/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "115728",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-miegamasis-1394-kvm-1-1857141/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "115728",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-miegamasis-1394-kvm-1-1857141/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "115728",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-miegamasis-1394-kvm-1-1857141/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "115728",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-miegamasis-1394-kvm-1-1857141/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33598209/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-zaliakalnyje-kaina-1-2161893/",
+    "ids": [
+        "2161893"
+    ],
+    "address": "Kaunas, Žaliakalnis, Gričiupio g.",
+    "rooms": 3,
+    "area": 58,
+    "floor": "5/6",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "62900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-zaliakalnyje-kaina-1-2161893/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "62900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-zaliakalnyje-kaina-1-2161893/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "64800",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-zaliakalnyje-kaina-1-2161893/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "64800",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-zaliakalnyje-kaina-1-2161893/"
+        }
+    ]
+}

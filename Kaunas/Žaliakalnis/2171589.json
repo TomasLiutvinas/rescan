@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34308063/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-is-45-namo-aukste-bute-1-2171589/",
+    "ids": [
+        "2171589"
+    ],
+    "address": "Kaunas, Žaliakalnis, Gričiupio g.",
+    "rooms": 4,
+    "area": 116,
+    "floor": "4/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "118000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-is-45-namo-aukste-bute-1-2171589/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "118000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-is-45-namo-aukste-bute-1-2171589/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "118000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-is-45-namo-aukste-bute-1-2171589/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "118000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-parduodamas-butas-is-45-namo-aukste-bute-1-2171589/"
+        }
+    ]
+}

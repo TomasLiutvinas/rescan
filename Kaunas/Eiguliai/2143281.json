@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31688009/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-ukmerges-g-parduodamas-4-kambariu-butas-ramioje-vietoje-1-2143281/",
+    "ids": [
+        "2143281"
+    ],
+    "address": "Kaunas, Eiguliai, Ukmergės g.",
+    "rooms": 4,
+    "area": 83,
+    "floor": "2/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-ukmerges-g-parduodamas-4-kambariu-butas-ramioje-vietoje-1-2143281/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-ukmerges-g-parduodamas-4-kambariu-butas-ramioje-vietoje-1-2143281/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-ukmerges-g-parduodamas-4-kambariu-butas-ramioje-vietoje-1-2143281/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-ukmerges-g-parduodamas-4-kambariu-butas-ramioje-vietoje-1-2143281/"
+        }
+    ]
+}

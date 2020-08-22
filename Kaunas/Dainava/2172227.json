@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34345983/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-be-tarpininku-su-baldais-parduodamas-jaukus-1-2172227/",
+    "ids": [
+        "2172227"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 2,
+    "area": 45,
+    "floor": "3/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "41500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-be-tarpininku-su-baldais-parduodamas-jaukus-1-2172227/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "41500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-be-tarpininku-su-baldais-parduodamas-jaukus-1-2172227/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "41500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-be-tarpininku-su-baldais-parduodamas-geroje-1-2172227/"
+        }
+    ]
+}

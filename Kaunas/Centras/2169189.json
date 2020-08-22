@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34131847/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-maironio-g-apie-buta-prabangiai-ir-stilingai-irengtas-1-2169189/",
+    "ids": [
+        "2169189"
+    ],
+    "address": "Kaunas, Centras, Maironio g.",
+    "rooms": 3,
+    "area": 79,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "174700",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-maironio-g-apie-buta-prabangiai-ir-stilingai-irengtas-1-2169189/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "174700",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-maironio-g-apie-buta-prabangiai-ir-stilingai-irengtas-1-2169189/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "174700",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-maironio-g-apie-buta-prabangiai-ir-stilingai-irengtas-1-2169189/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "174700",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-maironio-g-apie-buta-prabangiai-ir-stilingai-irengtas-1-2169189/"
+        }
+    ]
+}

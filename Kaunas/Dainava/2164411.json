@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33823501/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-pilnai-irengtas-3-kanbariu-butas-1-2164411/",
+    "ids": [
+        "2164411"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 3,
+    "area": 62,
+    "floor": "3/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-pilnai-irengtas-3-kanbariu-butas-1-2164411/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-pilnai-irengtas-3-kanbariu-butas-1-2164411/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-pilnai-irengtas-3-kanbariu-butas-1-2164411/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-pilnai-irengtas-3-kanbariu-butas-1-2164411/"
+        }
+    ]
+}

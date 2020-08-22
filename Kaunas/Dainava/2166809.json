@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33975189/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-puikus-butas-ramioje-vietoje-kreves-pr-1-2166809/",
+    "ids": [
+        "2166809"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 1,
+    "area": 33,
+    "floor": "2/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/25/2017",
+            "price": "31900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-puikus-butas-ramioje-vietoje-kreves-pr-1-2166809/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "31900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-puikus-butas-ramioje-vietoje-kreves-pr-1-2166809/"
+        }
+    ]
+}

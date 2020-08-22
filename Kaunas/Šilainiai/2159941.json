@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33421085/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-3-k-butas-sarkuvos-g-1-2159941/",
+    "ids": [
+        "2159941"
+    ],
+    "address": "Kaunas, Šilainiai, Šarkuvos g.",
+    "rooms": 3,
+    "area": 62,
+    "floor": "7/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-3-k-butas-sarkuvos-g-1-2159941/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-3-k-butas-sarkuvos-g-1-2159941/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "45500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-3-k-butas-sarkuvos-g-1-2159941/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "45500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-3-k-butas-sarkuvos-g-1-2159941/"
+        }
+    ]
+}

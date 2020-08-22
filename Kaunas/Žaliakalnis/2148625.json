@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32066745/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-a-juozapaviciaus-pr-naujai-irengtas-3ju-kambariu-butas-renovuotam-1-2148625/",
+    "ids": [
+        "2148625"
+    ],
+    "address": "Kaunas, Žaliakalnis, A. Juozapavičiaus pr.",
+    "rooms": 3,
+    "area": 90,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "77000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-a-juozapaviciaus-pr-naujai-irengtas-3ju-kambariu-butas-renovuotam-1-2148625/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "77000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-a-juozapaviciaus-pr-naujai-irengtas-3ju-kambariu-butas-renovuotam-1-2148625/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "77000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-a-juozapaviciaus-pr-naujai-irengtas-3ju-kambariu-butas-renovuotam-1-2148625/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "77000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-a-juozapaviciaus-pr-naujai-irengtas-3ju-kambariu-butas-renovuotam-1-2148625/"
+        }
+    ]
+}

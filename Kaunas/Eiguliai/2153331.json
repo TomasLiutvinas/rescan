@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32592997/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-suremontuotas-erdvus-keturiu-kambariu-butas-1-2153331/",
+    "ids": [
+        "2153331"
+    ],
+    "address": "Kaunas, Eiguliai, Ašigalio g.",
+    "rooms": 4,
+    "area": 82,
+    "floor": "1/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-suremontuotas-erdvus-keturiu-kambariu-butas-1-2153331/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-suremontuotas-erdvus-keturiu-kambariu-butas-1-2153331/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-suremontuotas-erdvus-keturiu-kambariu-butas-1-2153331/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-asigalio-g-suremontuotas-erdvus-keturiu-kambariu-butas-1-2153331/"
+        }
+    ]
+}

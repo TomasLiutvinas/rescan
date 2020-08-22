@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33969101/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-panemuneje-a-smetonos-al-parduodamas-2-kambariu-butas-a-smetonos-al-1-2166657/",
+    "ids": [
+        "2166657"
+    ],
+    "address": "Kaunas, Panemunė, A. Smetonos al.",
+    "rooms": 2,
+    "area": 47,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "39000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-a-smetonos-al-parduodamas-2-kambariu-butas-a-smetonos-al-1-2166657/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "39000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-a-smetonos-al-parduodamas-2-kambariu-butas-a-smetonos-al-1-2166657/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "39000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-a-smetonos-al-parduodamas-2-kambariu-butas-a-smetonos-al-1-2166657/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "39000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-a-smetonos-al-parduodamas-2-kambariu-butas-a-smetonos-al-1-2166657/"
+        }
+    ]
+}

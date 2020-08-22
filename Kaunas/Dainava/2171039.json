@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34265345/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-3-kambariu-butas-esantis-geroje-1-2171039/",
+    "ids": [
+        "2171039"
+    ],
+    "address": "Kaunas, Dainava, Pramonės pr.",
+    "rooms": 3,
+    "area": 64,
+    "floor": "8/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "64000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-3-kambariu-butas-esantis-geroje-1-2171039/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "64000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-3-kambariu-butas-esantis-geroje-1-2171039/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "64000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-3-kambariu-butas-esantis-geroje-1-2171039/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "64000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-parduodamas-3-kambariu-butas-esantis-geroje-1-2171039/"
+        }
+    ]
+}

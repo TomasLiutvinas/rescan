@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33712477/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-perkuno-al-prestizineje-vietoje-zaliakalnyje-muriniame-1-2163067/",
+    "ids": [
+        "2163067"
+    ],
+    "address": "Kaunas, Žaliakalnis, Perkūno al.",
+    "rooms": 1,
+    "area": 16,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "30400",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-perkuno-al-prestizineje-vietoje-zaliakalnyje-muriniame-1-2163067/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "30400",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-perkuno-al-prestizineje-vietoje-zaliakalnyje-muriniame-1-2163067/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "30400",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-perkuno-al-prestizineje-vietoje-zaliakalnyje-muriniame-1-2163067/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "30400",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-perkuno-al-prestizineje-vietoje-zaliakalnyje-muriniame-1-2163067/"
+        }
+    ]
+}

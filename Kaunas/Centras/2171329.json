@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34288805/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-kapitaliai-suremontuotas-butas-1-2171329/",
+    "ids": [
+        "2171329"
+    ],
+    "address": "Kaunas, Centras, Laisvės al.",
+    "rooms": 2,
+    "area": 111,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "99000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-kapitaliai-suremontuotas-butas-1-2171329/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "99000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-kapitaliai-suremontuotas-butas-1-2171329/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "99000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-kapitaliai-suremontuotas-butas-1-2171329/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "99000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-laisves-al-parduodamas-kapitaliai-suremontuotas-butas-1-2171329/"
+        }
+    ]
+}

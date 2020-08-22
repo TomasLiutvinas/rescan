@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34018807/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-gera-strategine-padetis-butas-siltas-1-2167479/",
+    "ids": [
+        "2167479"
+    ],
+    "address": "Kaunas, Šilainiai, Kuršių g.",
+    "rooms": 2,
+    "area": 51,
+    "floor": "2/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/25/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-gera-strategine-padetis-butas-siltas-1-2167479/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-gera-strategine-padetis-butas-siltas-1-2167479/"
+        }
+    ]
+}

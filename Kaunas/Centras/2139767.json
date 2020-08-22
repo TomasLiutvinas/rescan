@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31494171/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-m-valanciaus-g-kauno-senamiescio-apartamentai-yra-1-2139767/",
+    "ids": [
+        "2139767"
+    ],
+    "address": "Kaunas, Centras, M. Valančiaus g.",
+    "rooms": 2,
+    "area": 45,
+    "floor": "2/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "95000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-m-valanciaus-g-kauno-senamiescio-apartamentai-yra-1-2139767/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "95000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-m-valanciaus-g-kauno-senamiescio-apartamentai-yra-1-2139767/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "95000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-m-valanciaus-g-kauno-senamiescio-apartamentai-yra-1-2139767/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "95000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-m-valanciaus-g-kauno-senamiescio-apartamentai-yra-1-2139767/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "95000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-m-valanciaus-g-kauno-senamiescio-apartamentai-yra-1-2139767/"
+        }
+    ]
+}

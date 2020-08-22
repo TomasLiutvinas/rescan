@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-gedimino-g-parduodamas-1-kambarys-su-bendrais-patogumais-1-2161303/",
+    "ids": [
+        "2161303"
+    ],
+    "address": "Kaunas, Centras, Gedimino g.",
+    "rooms": 1,
+    "area": 28,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "9000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-gedimino-g-parduodamas-1-kambarys-su-bendrais-patogumais-1-2161303/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "9000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-gedimino-g-parduodamas-1-kambarys-su-bendrais-patogumais-1-2161303/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "9000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-gedimino-g-parduodamas-1-kambarys-su-bendrais-patogumais-1-2161303/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "9000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-gedimino-g-parduodamas-1-kambarys-su-bendrais-patogumais-1-2161303/"
+        }
+    ]
+}

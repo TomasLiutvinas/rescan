@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34391287/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-palemone-mariu-g-parduodamas-1-kambario-butas-palemone-1-2173015/",
+    "ids": [
+        "2173015"
+    ],
+    "address": "Kaunas, Palemonas, Marių g.",
+    "rooms": 1,
+    "area": 21,
+    "floor": "7/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "19500",
+            "url": "http://www.aruodas.lt/butai-kaune-palemone-mariu-g-parduodamas-1-kambario-butas-palemone-1-2173015/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "19500",
+            "url": "http://www.aruodas.lt/butai-kaune-palemone-mariu-g-parduodamas-1-kambario-butas-palemone-1-2173015/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "19500",
+            "url": "http://www.aruodas.lt/butai-kaune-palemone-mariu-g-parduodamas-1-kambario-butas-palemone-1-2173015/"
+        }
+    ]
+}

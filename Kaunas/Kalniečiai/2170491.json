@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34218675/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-p-luksio-g-jaukus-2-kambariu-butas-kalnieciuose-1-2170491/",
+    "ids": [
+        "2170491"
+    ],
+    "address": "Kaunas, Kalniečiai, P. Lukšio g.",
+    "rooms": 2,
+    "area": 52,
+    "floor": "9/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-p-luksio-g-jaukus-2-kambariu-butas-kalnieciuose-1-2170491/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-p-luksio-g-jaukus-2-kambariu-butas-kalnieciuose-1-2170491/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-p-luksio-g-jaukus-2-kambariu-butas-kalnieciuose-1-2170491/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-p-luksio-g-jaukus-2-kambariu-butas-kalnieciuose-1-2170491/"
+        }
+    ]
+}

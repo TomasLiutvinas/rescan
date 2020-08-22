@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29801205/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-m-riomerio-g-dvieju-kambariu-butas-renovuotame-name-4-1-2115337/",
+    "ids": [
+        "2115337"
+    ],
+    "address": "Kaunas, Dainava, M. Riomerio g.",
+    "rooms": 2,
+    "area": 44,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-m-riomerio-g-dvieju-kambariu-butas-renovuotame-name-4-1-2115337/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-m-riomerio-g-dvieju-kambariu-butas-renovuotame-name-4-1-2115337/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-m-riomerio-g-dvieju-kambariu-butas-renovuotame-name-4-1-2115337/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "30000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-m-riomerio-g-dvieju-kambariu-butas-renovuotame-name-4-1-2115337/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "29900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-m-riomerio-g-dvieju-kambariu-butas-renovuotame-name-4-1-2115337/"
+        }
+    ]
+}

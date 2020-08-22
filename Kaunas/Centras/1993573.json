@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_19304163/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-parduodamas-9426-kvm-bendro-ploto-butas-1-1993573/",
+    "ids": [
+        "1993573"
+    ],
+    "address": "Kaunas, Centras, Kęstučio g.",
+    "rooms": 4,
+    "area": 95,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "105000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-parduodamas-9426-kvm-bendro-ploto-butas-1-1993573/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "105000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-parduodamas-9426-kvm-bendro-ploto-butas-1-1993573/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "105000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-parduodamas-9426-kvm-bendro-ploto-butas-1-1993573/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "105000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-parduodamas-9426-kvm-bendro-ploto-butas-1-1993573/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "105000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-parduodamas-9426-kvm-bendro-ploto-butas-1-1993573/"
+        }
+    ]
+}

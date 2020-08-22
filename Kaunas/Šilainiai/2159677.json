@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33393921/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-triju-kambariu-butas-labai-1-2159677/",
+    "ids": [
+        "2159677"
+    ],
+    "address": "Kaunas, Šilainiai, Baltijos g.",
+    "rooms": 3,
+    "area": 61,
+    "floor": "5/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-triju-kambariu-butas-labai-1-2159677/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-triju-kambariu-butas-labai-1-2159677/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-triju-kambariu-butas-labai-1-2159677/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-triju-kambariu-butas-labai-1-2159677/"
+        }
+    ]
+}

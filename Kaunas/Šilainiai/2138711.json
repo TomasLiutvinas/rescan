@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-parduodamas-tvarkingas-nedidelis-1-k-butas-1-2138711/",
+    "ids": [
+        "2138711"
+    ],
+    "address": "Kaunas, Šilainiai, Mosėdžio g.",
+    "rooms": 1,
+    "area": 25,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "19500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-parduodamas-tvarkingas-nedidelis-1-k-butas-1-2138711/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "19500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-parduodamas-tvarkingas-nedidelis-1-k-butas-1-2138711/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "19500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-parduodamas-tvarkingas-nedidelis-1-k-butas-1-2138711/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "19500",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-mosedzio-g-parduodamas-tvarkingas-nedidelis-1-k-butas-1-2138711/"
+        }
+    ]
+}

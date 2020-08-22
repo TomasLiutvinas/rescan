@@ -18,6 +18,8 @@ module.exports = {
     DoUrlRequest: function(url, collectData, processData, extraData){
         var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
         var xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        
         xhr.onreadystatechange = function() {
             if (this.readyState === 4) {
                 if(this.responseText){
@@ -30,7 +32,7 @@ module.exports = {
                 }
             }
         };
-        xhr.open("GET", url);
+        
         xhr.send();
     },
 

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34360013/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-p-plechaviciaus-g-parduodamas-4k-butas-pplechaviciaus-g-1-2169309/",
+    "ids": [
+        "2169309"
+    ],
+    "address": "Kaunas, Eiguliai, P. Plechavičiaus g.",
+    "rooms": 4,
+    "area": 79,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45300",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-p-plechaviciaus-g-parduodamas-4k-butas-pplechaviciaus-g-1-2169309/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45300",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-p-plechaviciaus-g-parduodamas-4k-butas-pplechaviciaus-g-1-2169309/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "45300",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-p-plechaviciaus-g-parduodamas-4k-butas-pplechaviciaus-g-1-2169309/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "45300",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-p-plechaviciaus-g-parduodamas-4k-butas-pplechaviciaus-g-1-2169309/"
+        }
+    ]
+}

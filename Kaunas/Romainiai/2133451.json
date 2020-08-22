@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31167915/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-romainiuose-liucijanavos-g-wwwgerikaimynailt-nauja-jauki-saugi-1-2133451/",
+    "ids": [
+        "2133451"
+    ],
+    "address": "Kaunas, Romainiai, Liucijanavos g.",
+    "rooms": 3,
+    "area": 72,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "59000",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-liucijanavos-g-wwwgerikaimynailt-nauja-jauki-saugi-1-2133451/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "59000",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-liucijanavos-g-wwwgerikaimynailt-nauja-jauki-saugi-1-2133451/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "59000",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-liucijanavos-g-wwwgerikaimynailt-nauja-jauki-saugi-1-2133451/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "59000",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-liucijanavos-g-wwwgerikaimynailt-nauja-jauki-saugi-1-2133451/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "59000",
+            "url": "http://www.aruodas.lt/butai-kaune-romainiuose-liucijanavos-g-wwwgerikaimynailt-nauja-jauki-saugi-1-2133451/"
+        }
+    ]
+}

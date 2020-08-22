@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34085471/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-loftas-mansardinis-butas-butas-1-2168447/",
+    "ids": [
+        "2168447"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 2,
+    "area": 70,
+    "floor": "4/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "59900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-loftas-mansardinis-butas-butas-1-2168447/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "59900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-loftas-mansardinis-butas-butas-1-2168447/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "59900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-loftas-mansardinis-butas-butas-1-2168447/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "59900",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-parduodamas-loftas-mansardinis-butas-butas-1-2168447/"
+        }
+    ]
+}

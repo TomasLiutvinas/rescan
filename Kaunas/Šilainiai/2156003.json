@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32961223/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-suremontuotas-4-kambariu-butas-1-2156003/",
+    "ids": [
+        "2156003"
+    ],
+    "address": "Kaunas, Šilainiai, Šarkuvos g.",
+    "rooms": 4,
+    "area": 82,
+    "floor": "9/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-suremontuotas-4-kambariu-butas-1-2156003/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-suremontuotas-4-kambariu-butas-1-2156003/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-suremontuotas-4-kambariu-butas-1-2156003/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-parduodamas-suremontuotas-4-kambariu-butas-1-2156003/"
+        }
+    ]
+}

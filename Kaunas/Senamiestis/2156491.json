@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33044673/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-prabangus-moderniai-irengtas-1-2156491/",
+    "ids": [
+        "2156491"
+    ],
+    "address": "Kaunas, Senamiestis, M. Valančiaus g.",
+    "rooms": 2,
+    "area": 61,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "219000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-prabangus-moderniai-irengtas-1-2156491/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "219000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-prabangus-moderniai-irengtas-1-2156491/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "219000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-prabangus-moderniai-irengtas-1-2156491/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "219000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-prabangus-moderniai-irengtas-1-2156491/"
+        }
+    ]
+}

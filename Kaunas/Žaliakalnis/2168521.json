@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34088507/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-m-jankaus-g-gerai-irengtas-2ju-kambariu-butas-1-2168521/",
+    "ids": [
+        "2168521"
+    ],
+    "address": "Kaunas, Žaliakalnis, M. Jankaus g.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "63500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-m-jankaus-g-gerai-irengtas-2ju-kambariu-butas-1-2168521/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "63500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-m-jankaus-g-gerai-irengtas-2ju-kambariu-butas-1-2168521/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "63500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-m-jankaus-g-gerai-irengtas-2ju-kambariu-butas-1-2168521/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "63500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-m-jankaus-g-gerai-irengtas-2ju-kambariu-butas-1-2168521/"
+        }
+    ]
+}

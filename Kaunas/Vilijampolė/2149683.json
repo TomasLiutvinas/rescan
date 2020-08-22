@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32160831/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-varniu-g-parduodamas-jaukus-2-k-butas-vidinis-1-2149683/",
+    "ids": [
+        "2149683"
+    ],
+    "address": "Kaunas, Vilijampolė, Varnių g.",
+    "rooms": 2,
+    "area": 37,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-varniu-g-parduodamas-jaukus-2-k-butas-vidinis-1-2149683/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-varniu-g-parduodamas-jaukus-2-k-butas-vidinis-1-2149683/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-varniu-g-parduodamas-jaukus-2-k-butas-vidinis-1-2149683/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-varniu-g-parduodamas-jaukus-2-k-butas-vidinis-1-2149683/"
+        }
+    ]
+}

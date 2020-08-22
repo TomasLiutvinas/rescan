@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33943101/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-labai-tvarkingas-2k-butas-strategiskai-1-2166099/",
+    "ids": [
+        "2166099"
+    ],
+    "address": "Kaunas, Šilainiai, Baltijos g.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "3/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "48700",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-labai-tvarkingas-2k-butas-strategiskai-1-2166099/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "48700",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-labai-tvarkingas-2k-butas-strategiskai-1-2166099/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "48700",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-labai-tvarkingas-2k-butas-strategiskai-1-2166099/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "48700",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-labai-tvarkingas-2k-butas-strategiskai-1-2166099/"
+        }
+    ]
+}

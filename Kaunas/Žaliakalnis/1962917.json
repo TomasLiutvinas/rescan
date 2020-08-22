@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_21702495/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-saules-namas-kokybe-1-1962917/",
+    "ids": [
+        "1962917"
+    ],
+    "address": "Kaunas, Žaliakalnis, Gričiupio g.",
+    "rooms": 3,
+    "area": 56,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "76531",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-saules-namas-kokybe-1-1962917/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "76531",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-saules-namas-kokybe-1-1962917/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "76531",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-saules-namas-kokybe-1-1962917/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "76531",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-saules-namas-kokybe-1-1962917/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "76531",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-wwwsaulesnamaslt-saules-namas-kokybe-1-1962917/"
+        }
+    ]
+}

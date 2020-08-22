@@ -11,7 +11,7 @@ module.exports = {
 	{ Id:9, Value:'Sodybos' },
 	{ Id:12, Value:'Trumpalaike nuoma' },
 	{ Id:10, Value:'Iesko NT' },
-    ];
+    ],
 
     regions: [
         { Id: 7361, Value: "Žvirgždės k." },
@@ -442,7 +442,7 @@ module.exports = {
         { Id: 3, Value: "Patalpos pardavimui" },
         { Id: 2, Value: "Namai pardavimui" },
         { Id: 1, Value: "Butai pardavimui" }
-    ]
+    ],
 
     searchOptions: {
     	Plotas: {Nuo:null, Iki:null},
@@ -450,7 +450,7 @@ module.exports = {
     	Aukstas: {Nuo:null, Iki:null},
     	AukstoTipas: null,
     	Kaina: {Nuo:null, Iki:null}
-    };
+    },
 
     otherProperties: [
         { Id: "AreaOverall", alue: "Mažesni viršuje" }, 
@@ -549,7 +549,7 @@ module.exports = {
         { Id: "house_part", alue: "Namo dalis" }, 
         { Id: "box", alue: "Namas (gyvenamasis)" }, 
         { Id: 0, alue: "Pasirinkite"}
-    ];
+    ]
 }
 
 // var url = 'http://www.aruodas.lt/namai/kauno-rajone/?detailed_search=&redirect_skelbiu=0&redirect_edomus=0&obj=2&FRegion=63&FDistrict=0&FBuildingType=house_part&FAreaOverAllMax=&FAreaOverAllMin=&FAreaLotMax=&FAreaLotMin=&FPriceMax=&FPriceMin=';

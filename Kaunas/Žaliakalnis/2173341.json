@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34405311/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-sirvintu-2-asis-takas-isskirtinio-projekto-zaliakalnyje-naujai-1-2173341/",
+    "ids": [
+        "2173341"
+    ],
+    "address": "Kaunas, Žaliakalnis, Širvintų 2-asis takas",
+    "rooms": 3,
+    "area": 83,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "113000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-sirvintu-2-asis-takas-isskirtinio-projekto-zaliakalnyje-naujai-1-2173341/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "113000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-sirvintu-2-asis-takas-isskirtinio-projekto-zaliakalnyje-naujai-1-2173341/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "113000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-sirvintu-2-asis-takas-isskirtinio-projekto-zaliakalnyje-naujai-1-2173341/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32378165/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-butas-geroje-vietoje-silainiuose-1-2151329/",
+    "ids": [
+        "2151329"
+    ],
+    "address": "Kaunas, Šilainiai, Kuršių g.",
+    "rooms": 4,
+    "area": 84,
+    "floor": "7/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-butas-geroje-vietoje-silainiuose-1-2151329/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-butas-geroje-vietoje-silainiuose-1-2151329/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-butas-geroje-vietoje-silainiuose-1-2151329/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "52000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-erdvus-butas-geroje-vietoje-silainiuose-1-2151329/"
+        }
+    ]
+}

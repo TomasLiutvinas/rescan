@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33263077/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-pasiles-g-geroje-vietoje-3-k-butas-zaliakalnyje-1-2158701/",
+    "ids": [
+        "2158701"
+    ],
+    "address": "Kaunas, Žaliakalnis, Pašilės g.",
+    "rooms": 3,
+    "area": 63,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-pasiles-g-geroje-vietoje-3-k-butas-zaliakalnyje-1-2158701/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-pasiles-g-geroje-vietoje-3-k-butas-zaliakalnyje-1-2158701/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-pasiles-g-geroje-vietoje-3-k-butas-zaliakalnyje-1-2158701/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-pasiles-g-geroje-vietoje-3-k-butas-zaliakalnyje-1-2158701/"
+        }
+    ]
+}

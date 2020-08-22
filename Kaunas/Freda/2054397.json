@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_25214229/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-fredoje-z-e-zilibero-g-nauja-statyba-fredoje-zilibero-g-greta-1-2054397/",
+    "ids": [
+        "2054397"
+    ],
+    "address": "Kaunas, Freda, Ž. E. Žilibero g.",
+    "rooms": 3,
+    "area": 81,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "99700",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-z-e-zilibero-g-nauja-statyba-fredoje-zilibero-g-greta-1-2054397/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "99700",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-z-e-zilibero-g-nauja-statyba-fredoje-zilibero-g-greta-1-2054397/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "99700",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-z-e-zilibero-g-nauja-statyba-fredoje-zilibero-g-greta-1-2054397/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "99700",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-z-e-zilibero-g-nauja-statyba-fredoje-zilibero-g-greta-1-2054397/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "99700",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-z-e-zilibero-g-nauja-statyba-fredoje-zilibero-g-greta-1-2054397/"
+        }
+    ]
+}

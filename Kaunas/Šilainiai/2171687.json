@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34312381/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-50-kv-m-2-k-butas-baltijos-g-1-2171687/",
+    "ids": [
+        "2171687"
+    ],
+    "address": "Kaunas, Šilainiai, Baltijos g.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "41000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-50-kv-m-2-k-butas-baltijos-g-1-2171687/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "41000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-50-kv-m-2-k-butas-baltijos-g-1-2171687/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "39900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-50-kv-m-2-k-butas-baltijos-g-1-2171687/"
+        }
+    ]
+}

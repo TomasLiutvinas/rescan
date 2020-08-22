@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33259297/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-veiveriu-g-parduodamas-3-k-butas-aleksote-veiveriu-g-1-2158675/",
+    "ids": [
+        "2158675"
+    ],
+    "address": "Kaunas, Aleksotas, Veiverių g.",
+    "rooms": 3,
+    "area": 66,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-veiveriu-g-parduodamas-3-k-butas-aleksote-veiveriu-g-1-2158675/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-veiveriu-g-parduodamas-3-k-butas-aleksote-veiveriu-g-1-2158675/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-veiveriu-g-parduodamas-3-k-butas-aleksote-veiveriu-g-1-2158675/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-veiveriu-g-parduodamas-3-k-butas-aleksote-veiveriu-g-1-2158675/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29845271/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-triju-kambariu-butas-prie-1-2115899/",
+    "ids": [
+        "2115899"
+    ],
+    "address": "Kaunas, Lampėdžiai, Raudondvario pl.",
+    "rooms": 3,
+    "area": 59,
+    "floor": "3/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-triju-kambariu-butas-prie-1-2115899/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-triju-kambariu-butas-prie-1-2115899/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-triju-kambariu-butas-prie-1-2115899/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "55000",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-triju-kambariu-butas-prie-1-2115899/"
+        }
+    ]
+}

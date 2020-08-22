@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_25870167/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-l-ivinskio-g-parduodamas-2kbutas-asanciuose-livinskio-1-2064005/",
+    "ids": [
+        "2064005"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, L. Ivinskio g.",
+    "rooms": 2,
+    "area": 38,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/25/2017",
+            "price": "20500",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-l-ivinskio-g-parduodamas-2kbutas-asanciuose-livinskio-1-2064005/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "20500",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-l-ivinskio-g-parduodamas-2kbutas-asanciuose-livinskio-1-2064005/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "20500",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-l-ivinskio-g-parduodamas-2kbutas-asanciuose-livinskio-1-2064005/"
+        }
+    ]
+}

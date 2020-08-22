@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34222483/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-4-kambariu-butas-silainiuose-1-2170619/",
+    "ids": [
+        "2170619"
+    ],
+    "address": "Kaunas, Šilainiai, Baltų pr.",
+    "rooms": 4,
+    "area": 84,
+    "floor": "4/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "53900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-4-kambariu-butas-silainiuose-1-2170619/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "53900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-4-kambariu-butas-silainiuose-1-2170619/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "53900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-4-kambariu-butas-silainiuose-1-2170619/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "53900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-4-kambariu-butas-silainiuose-1-2170619/"
+        }
+    ]
+}

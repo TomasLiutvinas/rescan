@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31224843/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-3-k-butas-prie-pc-savas-vidinis-siltas-1-2089421/",
+    "ids": [
+        "2089421"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 3,
+    "area": 47,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "43500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-3-k-butas-prie-pc-savas-vidinis-siltas-1-2089421/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "43500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-3-k-butas-prie-pc-savas-vidinis-siltas-1-2089421/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "43500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-3-k-butas-prie-pc-savas-vidinis-siltas-1-2089421/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "43500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-3-k-butas-prie-pc-savas-vidinis-siltas-1-2089421/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "43500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-3-k-butas-prie-pc-savas-vidinis-siltas-1-2089421/"
+        }
+    ]
+}

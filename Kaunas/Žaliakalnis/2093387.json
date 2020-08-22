@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_28201875/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-obuoliu-g-butas-geroje-vietoje-zaliakalnyje-1-2093387/",
+    "ids": [
+        "2093387"
+    ],
+    "address": "Kaunas, Žaliakalnis, Obuolių g.",
+    "rooms": 2,
+    "area": 37,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-obuoliu-g-butas-geroje-vietoje-zaliakalnyje-1-2093387/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-obuoliu-g-butas-geroje-vietoje-zaliakalnyje-1-2093387/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-obuoliu-g-butas-geroje-vietoje-zaliakalnyje-1-2093387/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-obuoliu-g-butas-geroje-vietoje-zaliakalnyje-1-2093387/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-obuoliu-g-butas-geroje-vietoje-zaliakalnyje-1-2093387/"
+        }
+    ]
+}

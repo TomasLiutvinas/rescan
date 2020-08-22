@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34404761/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-siaudines-g-parduodamas-sviesus-butas-7244-kvm-prie-1-2170547/",
+    "ids": [
+        "2170547"
+    ],
+    "address": "Kaunas, Vilijampolė, Šiaudinės g.",
+    "rooms": 2,
+    "area": 72,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "57600",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-siaudines-g-parduodamas-sviesus-butas-7244-kvm-prie-1-2170547/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "57600",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-siaudines-g-parduodamas-sviesus-butas-7244-kvm-prie-1-2170547/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "57600",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-siaudines-g-parduodamas-sviesus-butas-7244-kvm-prie-1-2170547/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "57600",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-siaudines-g-parduodamas-sviesus-butas-7244-kvm-prie-1-2170547/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-99a-bplotas-8286kvm-kambariai-1689kvm-1-2153559/",
+    "ids": [
+        "2153559"
+    ],
+    "address": "Kaunas, Šilainiai, Šarkuvos g.",
+    "rooms": 4,
+    "area": 82,
+    "floor": "9/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "58000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-99a-bplotas-8286kvm-kambariai-1689kvm-1-2153559/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "58000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-99a-bplotas-8286kvm-kambariai-1689kvm-1-2153559/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "58000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-99a-bplotas-8286kvm-kambariai-1689kvm-1-2153559/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "58000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-sarkuvos-g-99a-bplotas-8286kvm-kambariai-1689kvm-1-2153559/"
+        }
+    ]
+}

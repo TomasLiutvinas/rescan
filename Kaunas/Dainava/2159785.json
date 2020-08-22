@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33407587/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-kaune-pramones-pr-parduodamas-2-kambariu-1-2159785/",
+    "ids": [
+        "2159785"
+    ],
+    "address": "Kaunas, Dainava, Pramonės pr.",
+    "rooms": 2,
+    "area": 37,
+    "floor": "5/6",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "27500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-kaune-pramones-pr-parduodamas-2-kambariu-1-2159785/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "27500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-kaune-pramones-pr-parduodamas-2-kambariu-1-2159785/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "27500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-kaune-pramones-pr-parduodamas-2-kambariu-1-2159785/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "27500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pramones-pr-kaune-pramones-pr-parduodamas-2-kambariu-1-2159785/"
+        }
+    ]
+}

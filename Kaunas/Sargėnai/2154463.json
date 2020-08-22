@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32786923/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-sargenuose-ziburiu-g-4-kambariai-kotedze-per-du-aukstus-salia-1-2154463/",
+    "ids": [
+        "2154463"
+    ],
+    "address": "Kaunas, Sargėnai, Žiburių g.",
+    "rooms": 4,
+    "area": 123,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "87000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-ziburiu-g-4-kambariai-kotedze-per-du-aukstus-salia-1-2154463/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "87000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-ziburiu-g-4-kambariai-kotedze-per-du-aukstus-salia-1-2154463/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "87000",
+            "url": "http://www.aruodas.lt/butai-kaune-sargenuose-ziburiu-g-4-kambariai-kotedze-per-du-aukstus-salia-1-2154463/"
+        }
+    ]
+}

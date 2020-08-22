@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34378047/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-puodziu-g-detalene-informacija-wwwpuodziunamailt-1-2172777/",
+    "ids": [
+        "2172777"
+    ],
+    "address": "Kaunas, Centras, Puodžių g.",
+    "rooms": 2,
+    "area": 54,
+    "floor": "2/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "89000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-puodziu-g-detalene-informacija-wwwpuodziunamailt-1-2172777/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "89000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-puodziu-g-detalene-informacija-wwwpuodziunamailt-1-2172777/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "89000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-puodziu-g-detalene-informacija-wwwpuodziunamailt-1-2172777/"
+        }
+    ]
+}

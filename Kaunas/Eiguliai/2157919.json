@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33193273/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-rezervuota-parduodamas-1-kambario-butas-1-2157919/",
+    "ids": [
+        "2157919"
+    ],
+    "address": "Kaunas, Eiguliai, Kalniečių g.",
+    "rooms": 1,
+    "area": 19,
+    "floor": "4/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "11800",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-rezervuota-parduodamas-1-kambario-butas-1-2157919/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "11800",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-rezervuota-parduodamas-1-kambario-butas-1-2157919/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "11800",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-rezervuota-parduodamas-1-kambario-butas-1-2157919/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "11800",
+            "url": "http://www.aruodas.lt/butai-kaune-eiguliuose-kalnieciu-g-rezervuota-parduodamas-1-kambario-butas-1-2157919/"
+        }
+    ]
+}

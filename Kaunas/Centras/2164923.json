@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33848823/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-parduodamas-2-kambariu-butas-miesto-centre-1-2164923/",
+    "ids": [
+        "2164923"
+    ],
+    "address": "Kaunas, Centras, Vytauto pr.",
+    "rooms": 2,
+    "area": 56,
+    "floor": "1/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "50800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-parduodamas-2-kambariu-butas-miesto-centre-1-2164923/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "50800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-parduodamas-2-kambariu-butas-miesto-centre-1-2164923/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "50800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-parduodamas-2-kambariu-butas-miesto-centre-1-2164923/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "50800",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-parduodamas-2-kambariu-butas-miesto-centre-1-2164923/"
+        }
+    ]
+}

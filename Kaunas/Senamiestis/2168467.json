@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34086085/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vilniaus-g-parduodamas-2k-butas-senamiestyje-vilniaus-1-2168467/",
+    "ids": [
+        "2168467"
+    ],
+    "address": "Kaunas, Senamiestis, Vilniaus g.",
+    "rooms": 2,
+    "area": 55,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "77350",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vilniaus-g-parduodamas-2k-butas-senamiestyje-vilniaus-1-2168467/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "77350",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vilniaus-g-parduodamas-2k-butas-senamiestyje-vilniaus-1-2168467/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "77350",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vilniaus-g-parduodamas-2k-butas-senamiestyje-vilniaus-1-2168467/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "77350",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-vilniaus-g-parduodamas-2k-butas-senamiestyje-vilniaus-1-2168467/"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34408155/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-marveleje-akaciju-g-atrask-noreikiskes-sia-vieta-nuo-kauno-1-2173383/",
+    "ids": [
+        "2173383"
+    ],
+    "address": "Kaunas, Marvelė, Akacijų g.",
+    "rooms": 3,
+    "area": 68,
+    "floor": "1/1",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-marveleje-akaciju-g-atrask-noreikiskes-sia-vieta-nuo-kauno-1-2173383/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-marveleje-akaciju-g-atrask-noreikiskes-sia-vieta-nuo-kauno-1-2173383/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-marveleje-akaciju-g-atrask-noreikiskes-sia-vieta-nuo-kauno-1-2173383/"
+        }
+    ]
+}

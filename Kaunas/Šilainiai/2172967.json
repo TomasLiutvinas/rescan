@@ -1,0 +1,31 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34389609/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-38-kvm-naujai-suremontuotas-1-2172967/",
+    "ids": [
+        "2172967"
+    ],
+    "address": "Kaunas, Šilainiai, Kuršių g.",
+    "rooms": 1,
+    "area": 38,
+    "floor": "5/5",
+    "phones": [
+        "+37063548824"
+    ],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "36000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-38-kvm-naujai-suremontuotas-1-2172967/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "36000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-38-kvm-naujai-suremontuotas-1-2172967/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "36000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-38-kvm-naujai-suremontuotas-1-2172967/"
+        }
+    ]
+}

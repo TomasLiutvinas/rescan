@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33844931/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-stilingai-irengtas-1-kambario-butas-812-a-1-2164837/",
+    "ids": [
+        "2164837"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 1,
+    "area": 32,
+    "floor": "8/12",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "36200",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-stilingai-irengtas-1-kambario-butas-812-a-1-2164837/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "36200",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-stilingai-irengtas-1-kambario-butas-812-a-1-2164837/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "36200",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-stilingai-irengtas-1-kambario-butas-812-a-1-2164837/"
+        }
+    ]
+}

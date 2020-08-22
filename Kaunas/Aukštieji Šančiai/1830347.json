@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_5854502/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-birzisku-g-parduodamas-4-kambariu-butas-111kvm-prie-1-1830347/",
+    "ids": [
+        "1830347"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Biržiškų g.",
+    "rooms": 4,
+    "area": 111,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "139800",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-birzisku-g-parduodamas-4-kambariu-butas-111kvm-prie-1-1830347/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "139800",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-birzisku-g-parduodamas-4-kambariu-butas-111kvm-prie-1-1830347/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "139800",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-birzisku-g-parduodamas-4-kambariu-butas-111kvm-prie-1-1830347/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "139800",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-birzisku-g-parduodamas-4-kambariu-butas-111kvm-prie-1-1830347/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "139800",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-birzisku-g-parduodamas-4-kambariu-butas-111kvm-prie-1-1830347/"
+        }
+    ]
+}

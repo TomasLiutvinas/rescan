@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31309905/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2136119/",
+    "ids": [
+        "2136119"
+    ],
+    "address": "Kaunas, Aleksotas, Grožio al.",
+    "rooms": 2,
+    "area": 51,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/25/2017",
+            "price": "35500",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2136119/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "35500",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2136119/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "35500",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-grozio-al-autonominis-sildymaspuikioje-vietoje-tik-1-2136119/"
+        }
+    ]
+}

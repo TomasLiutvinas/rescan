@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34329601/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-isskirtinio-isplanavimo-butas-1-2171939/",
+    "ids": [
+        "2171939"
+    ],
+    "address": "Kaunas, Senamiestis, M. Valančiaus g.",
+    "rooms": 3,
+    "area": 145,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "170000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-isskirtinio-isplanavimo-butas-1-2171939/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "170000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-isskirtinio-isplanavimo-butas-1-2171939/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "170000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-isskirtinio-isplanavimo-butas-1-2171939/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "170000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-isskirtinio-isplanavimo-butas-1-2171939/"
+        }
+    ]
+}

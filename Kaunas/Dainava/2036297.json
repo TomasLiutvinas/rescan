@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_23190255/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-kompaktiskas-vidinis-butas-15-blok-1-2036297/",
+    "ids": [
+        "2036297"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 2,
+    "area": 44,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "37800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-kompaktiskas-vidinis-butas-15-blok-1-2036297/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "37800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-kompaktiskas-vidinis-butas-15-blok-1-2036297/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "37800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-kompaktiskas-vidinis-butas-15-blok-1-2036297/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "37800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-kompaktiskas-vidinis-butas-15-blok-1-2036297/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "37800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-kompaktiskas-vidinis-butas-15-blok-1-2036297/"
+        }
+    ]
+}

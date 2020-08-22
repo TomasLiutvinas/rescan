@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33965417/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-parduodamas-nuostabus-tarpukario-1-2166577/",
+    "ids": [
+        "2166577"
+    ],
+    "address": "Kaunas, Senamiestis, Nemuno g.",
+    "rooms": 3,
+    "area": 73,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "115000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-parduodamas-nuostabus-tarpukario-1-2166577/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "115000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-parduodamas-nuostabus-tarpukario-1-2166577/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "115000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-parduodamas-nuostabus-tarpukario-1-2166577/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "115000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-nemuno-g-parduodamas-nuostabus-tarpukario-1-2166577/"
+        }
+    ]
+}

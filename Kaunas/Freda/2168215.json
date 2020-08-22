@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34069297/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-fredoje-vincu-g-parduodamas-erdvus-butas-idealus-seimai-1-2168215/",
+    "ids": [
+        "2168215"
+    ],
+    "address": "Kaunas, Freda, Vinčų g.",
+    "rooms": 3,
+    "area": 67,
+    "floor": "4/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-vincu-g-parduodamas-erdvus-butas-idealus-seimai-1-2168215/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-vincu-g-parduodamas-erdvus-butas-idealus-seimai-1-2168215/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-vincu-g-parduodamas-erdvus-butas-idealus-seimai-1-2168215/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "60000",
+            "url": "http://www.aruodas.lt/butai-kaune-fredoje-vincu-g-parduodamas-erdvus-butas-idealus-seimai-1-2168215/"
+        }
+    ]
+}

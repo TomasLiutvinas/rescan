@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33691097/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-2-kambariu-butas-kalnieciuose-1-2162855/",
+    "ids": [
+        "2162855"
+    ],
+    "address": "Kaunas, Kalniečiai, Šiaurės pr.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "38250",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-2-kambariu-butas-kalnieciuose-1-2162855/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "38250",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-2-kambariu-butas-kalnieciuose-1-2162855/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "38250",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-2-kambariu-butas-kalnieciuose-1-2162855/"
+        }
+    ]
+}

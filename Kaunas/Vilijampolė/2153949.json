@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32751887/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-paneriu-g-kompaktiskas-2-kamb-butas-salia-miesto-1-2153949/",
+    "ids": [
+        "2153949"
+    ],
+    "address": "Kaunas, Vilijampolė, Panerių g.",
+    "rooms": 2,
+    "area": 38,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "28300",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-paneriu-g-kompaktiskas-2-kamb-butas-salia-miesto-1-2153949/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "28300",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-paneriu-g-kompaktiskas-2-kamb-butas-salia-miesto-1-2153949/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "28300",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-paneriu-g-kompaktiskas-2-kamb-butas-salia-miesto-1-2153949/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "28300",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-paneriu-g-kompaktiskas-2-kamb-butas-salia-miesto-1-2153949/"
+        }
+    ]
+}

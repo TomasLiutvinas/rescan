@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_14324507/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-butas-orientuotas-i-pietus-ir-vakarus-itin-1-1889429/",
+    "ids": [
+        "1889429"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Ašmenos 1-oji g.",
+    "rooms": 3,
+    "area": 63,
+    "floor": "7/16",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-butas-orientuotas-i-pietus-ir-vakarus-itin-1-1889429/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-butas-orientuotas-i-pietus-ir-vakarus-itin-1-1889429/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-butas-orientuotas-i-pietus-ir-vakarus-itin-1-1889429/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-butas-orientuotas-i-pietus-ir-vakarus-itin-1-1889429/"
+        }
+    ]
+}

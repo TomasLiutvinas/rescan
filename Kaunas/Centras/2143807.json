@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31721017/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g--butas-patogioje-vietoje-500-m-iki-nemuno-1-2143807/",
+    "ids": [
+        "2143807"
+    ],
+    "address": "Kaunas, Centras, Miško g.",
+    "rooms": 2,
+    "area": 49,
+    "floor": "6/7",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g--butas-patogioje-vietoje-500-m-iki-nemuno-1-2143807/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g--butas-patogioje-vietoje-500-m-iki-nemuno-1-2143807/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g--butas-patogioje-vietoje-500-m-iki-nemuno-1-2143807/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "65000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-misko-g--butas-patogioje-vietoje-500-m-iki-nemuno-1-2143807/"
+        }
+    ]
+}

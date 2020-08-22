@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34186569/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-studentu-g-erdvus-ir-ekonomiskas-1-k-butas-studentu-g-1-2169981/",
+    "ids": [
+        "2169981"
+    ],
+    "address": "Kaunas, Žaliakalnis, Studentų g.",
+    "rooms": 1,
+    "area": 30,
+    "floor": "1/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "27700",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-studentu-g-erdvus-ir-ekonomiskas-1-k-butas-studentu-g-1-2169981/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "27700",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-studentu-g-erdvus-ir-ekonomiskas-1-k-butas-studentu-g-1-2169981/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "27700",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-studentu-g-erdvus-ir-ekonomiskas-1-k-butas-studentu-g-1-2169981/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "27700",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-studentu-g-erdvus-ir-ekonomiskas-1-k-butas-studentu-g-1-2169981/"
+        }
+    ]
+}

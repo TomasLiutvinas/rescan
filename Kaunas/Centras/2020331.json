@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_21741037/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-parduodami-prestiziniai-apartamentai-paciame-1-2020331/",
+    "ids": [
+        "2020331"
+    ],
+    "address": "Kaunas, Centras, I. Kanto g.",
+    "rooms": 3,
+    "area": 117,
+    "floor": "7/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "300000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-parduodami-prestiziniai-apartamentai-paciame-1-2020331/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "300000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-parduodami-prestiziniai-apartamentai-paciame-1-2020331/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "300000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-parduodami-prestiziniai-apartamentai-paciame-1-2020331/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "300000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-parduodami-prestiziniai-apartamentai-paciame-1-2020331/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "300000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-parduodami-prestiziniai-apartamentai-paciame-1-2020331/"
+        }
+    ]
+}

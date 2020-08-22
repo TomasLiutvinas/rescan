@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32471525/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-erdvus-jaukus-moderniai-1-2152167/",
+    "ids": [
+        "2152167"
+    ],
+    "address": "Kaunas, Šilainiai, Baltijos g.",
+    "rooms": 4,
+    "area": 92,
+    "floor": "2/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "81900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-erdvus-jaukus-moderniai-1-2152167/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "81900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-erdvus-jaukus-moderniai-1-2152167/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "81900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-erdvus-jaukus-moderniai-1-2152167/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "81900",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltijos-g-parduodamas-erdvus-jaukus-moderniai-1-2152167/"
+        }
+    ]
+}

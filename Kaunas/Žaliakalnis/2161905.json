@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33598855/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-geras-2-kambbutas-savanoriu-pr-antrame-1-2161905/",
+    "ids": [
+        "2161905"
+    ],
+    "address": "Kaunas, Žaliakalnis, Savanorių pr.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "2/10",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "62900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-geras-2-kambbutas-savanoriu-pr-antrame-1-2161905/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "62900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-geras-2-kambbutas-savanoriu-pr-antrame-1-2161905/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "62900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-geras-2-kambbutas-savanoriu-pr-antrame-1-2161905/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "62900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-geras-2-kambbutas-savanoriu-pr-antrame-1-2161905/"
+        }
+    ]
+}

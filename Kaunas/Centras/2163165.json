@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33720793/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-veiveriu-g-su-ispudingu-vaizdu-pro-langa-muriniame-1-2163165/",
+    "ids": [
+        "2163165"
+    ],
+    "address": "Kaunas, Centras, Veiverių g.",
+    "rooms": 2,
+    "area": 45,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "51500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-veiveriu-g-su-ispudingu-vaizdu-pro-langa-muriniame-1-2163165/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "51500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-veiveriu-g-su-ispudingu-vaizdu-pro-langa-muriniame-1-2163165/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "51500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-veiveriu-g-su-ispudingu-vaizdu-pro-langa-muriniame-1-2163165/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "51500",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-veiveriu-g-su-ispudingu-vaizdu-pro-langa-muriniame-1-2163165/"
+        }
+    ]
+}

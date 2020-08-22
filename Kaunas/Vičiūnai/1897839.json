@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_10747735/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-kauno-mieste-viciunu-mikrorajone-naujos-1-1897839/",
+    "ids": [
+        "1897839"
+    ],
+    "address": "Kaunas, Vičiūnai, Kiškių g.",
+    "rooms": 4,
+    "area": 88,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "135000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-kauno-mieste-viciunu-mikrorajone-naujos-1-1897839/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "135000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-kauno-mieste-viciunu-mikrorajone-naujos-1-1897839/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "135000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-kauno-mieste-viciunu-mikrorajone-naujos-1-1897839/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "132000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-kauno-mieste-viciunu-mikrorajone-naujos-1-1897839/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "132000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-kauno-mieste-viciunu-mikrorajone-naujos-1-1897839/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31838879/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-puikus-4-kmb-butas-renovuotame-name-du-1-2145099/",
+    "ids": [
+        "2145099"
+    ],
+    "address": "Kaunas, Žaliakalnis, Savanorių pr.",
+    "rooms": 4,
+    "area": 84,
+    "floor": "8/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "51000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-puikus-4-kmb-butas-renovuotame-name-du-1-2145099/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "51000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-puikus-4-kmb-butas-renovuotame-name-du-1-2145099/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "51000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-puikus-4-kmb-butas-renovuotame-name-du-1-2145099/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "51000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-savanoriu-pr-puikus-4-kmb-butas-renovuotame-name-du-1-2145099/"
+        }
+    ]
+}

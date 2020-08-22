@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33428641/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-2-oji-g-parduodamas-dvieju-kambariu-butas-kaune-1-2160035/",
+    "ids": [
+        "2160035"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Ašmenos 2-oji g.",
+    "rooms": 2,
+    "area": 53,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "43000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-2-oji-g-parduodamas-dvieju-kambariu-butas-kaune-1-2160035/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "43000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-2-oji-g-parduodamas-dvieju-kambariu-butas-kaune-1-2160035/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "43000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-2-oji-g-parduodamas-dvieju-kambariu-butas-kaune-1-2160035/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "43000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-2-oji-g-parduodamas-dvieju-kambariu-butas-kaune-1-2160035/"
+        }
+    ]
+}

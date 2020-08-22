@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31895117/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-1k-kipro-petrausko-g-zaliakalnis-44a-1-2145661/",
+    "ids": [
+        "2145661"
+    ],
+    "address": "Kaunas, Žaliakalnis, K. Petrausko g.",
+    "rooms": 1,
+    "area": 30,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "34900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-1k-kipro-petrausko-g-zaliakalnis-44a-1-2145661/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "34900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-1k-kipro-petrausko-g-zaliakalnis-44a-1-2145661/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "34900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-1k-kipro-petrausko-g-zaliakalnis-44a-1-2145661/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "34900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-k-petrausko-g-1k-kipro-petrausko-g-zaliakalnis-44a-1-2145661/"
+        }
+    ]
+}

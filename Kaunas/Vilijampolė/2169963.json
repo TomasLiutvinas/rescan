@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34183673/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-demokratu-g-vidinis-butas-ramioje-vietoje-25-blok-1-2169963/",
+    "ids": [
+        "2169963"
+    ],
+    "address": "Kaunas, Vilijampolė, Demokratų g.",
+    "rooms": 2,
+    "area": 44,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "34700",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-demokratu-g-vidinis-butas-ramioje-vietoje-25-blok-1-2169963/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "34700",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-demokratu-g-vidinis-butas-ramioje-vietoje-25-blok-1-2169963/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "34700",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-demokratu-g-vidinis-butas-ramioje-vietoje-25-blok-1-2169963/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "34700",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-demokratu-g-vidinis-butas-ramioje-vietoje-25-blok-1-2169963/"
+        }
+    ]
+}

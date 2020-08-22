@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34059615/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-gerai-suremontuotas-butas-dainavoja-butas-1-2168051/",
+    "ids": [
+        "2168051"
+    ],
+    "address": "Kaunas, Dainava, V. Krėvės pr.",
+    "rooms": 2,
+    "area": 44,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-gerai-suremontuotas-butas-dainavoja-butas-1-2168051/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-gerai-suremontuotas-butas-dainavoja-butas-1-2168051/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-gerai-suremontuotas-butas-dainavoja-butas-1-2168051/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "49000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-v-kreves-pr-gerai-suremontuotas-butas-dainavoja-butas-1-2168051/"
+        }
+    ]
+}

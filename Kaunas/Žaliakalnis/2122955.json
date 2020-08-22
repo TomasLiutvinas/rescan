@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_31296395/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-saules-namas-vertinantiems-kokybe-4-1-2122955/",
+    "ids": [
+        "2122955"
+    ],
+    "address": "Kaunas, Žaliakalnis, Gričiupio g.",
+    "rooms": 3,
+    "area": 74,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "99900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-saules-namas-vertinantiems-kokybe-4-1-2122955/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "99900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-saules-namas-vertinantiems-kokybe-4-1-2122955/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "99900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-saules-namas-vertinantiems-kokybe-4-1-2122955/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "99900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-saules-namas-vertinantiems-kokybe-4-1-2122955/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "99900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-griciupio-g-saules-namas-vertinantiems-kokybe-4-1-2122955/"
+        }
+    ]
+}

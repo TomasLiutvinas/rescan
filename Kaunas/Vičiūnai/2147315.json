@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32000085/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-jaukumu-ir-prestizu-pasizymincioje-panemunes-1-2147315/",
+    "ids": [
+        "2147315"
+    ],
+    "address": "Kaunas, Vičiūnai, Kiškių g.",
+    "rooms": 4,
+    "area": 240,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "129000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-jaukumu-ir-prestizu-pasizymincioje-panemunes-1-2147315/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "129000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-jaukumu-ir-prestizu-pasizymincioje-panemunes-1-2147315/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "129000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-jaukumu-ir-prestizu-pasizymincioje-panemunes-1-2147315/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "129000",
+            "url": "http://www.aruodas.lt/butai-kaune-viciunuose-kiskiu-g-jaukumu-ir-prestizu-pasizymincioje-panemunes-1-2147315/"
+        }
+    ]
+}

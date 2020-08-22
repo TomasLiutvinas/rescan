@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33510509/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-40-kv-m-2-iu-k-butas-z-1-2161079/",
+    "ids": [
+        "2161079"
+    ],
+    "address": "Kaunas, Lampėdžiai, Raudondvario pl.",
+    "rooms": 2,
+    "area": 40,
+    "floor": "1/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "30400",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-40-kv-m-2-iu-k-butas-z-1-2161079/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "30400",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-40-kv-m-2-iu-k-butas-z-1-2161079/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "30400",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-40-kv-m-2-iu-k-butas-z-1-2161079/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "30400",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-raudondvario-pl-parduodamas-40-kv-m-2-iu-k-butas-z-1-2161079/"
+        }
+    ]
+}

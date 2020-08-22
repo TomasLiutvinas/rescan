@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33902821/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-strategiskai-patogioje-vietoje-visai-netoli-1-2165651/",
+    "ids": [
+        "2165651"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 1,
+    "area": 21,
+    "floor": "5/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "14700",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-strategiskai-patogioje-vietoje-visai-netoli-1-2165651/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "14700",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-strategiskai-patogioje-vietoje-visai-netoli-1-2165651/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "14700",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-strategiskai-patogioje-vietoje-visai-netoli-1-2165651/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "14700",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-strategiskai-patogioje-vietoje-visai-netoli-1-2165651/"
+        }
+    ]
+}

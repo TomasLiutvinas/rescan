@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34010891/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-vaiku-rojus-kieme-auksciausia-kokybe-kaune-1-2162427/",
+    "ids": [
+        "2162427"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Ašmenos 1-oji g.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "3/16",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "73000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-vaiku-rojus-kieme-auksciausia-kokybe-kaune-1-2162427/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "73000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-vaiku-rojus-kieme-auksciausia-kokybe-kaune-1-2162427/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "73000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-vaiku-rojus-kieme-auksciausia-kokybe-kaune-1-2162427/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "73000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-asmenos-1-oji-g-vaiku-rojus-kieme-auksciausia-kokybe-kaune-1-2162427/"
+        }
+    ]
+}

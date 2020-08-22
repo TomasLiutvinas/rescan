@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33625509/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-paciame-kauno-centre-vytauto-pr56-1-2162317/",
+    "ids": [
+        "2162317"
+    ],
+    "address": "Kaunas, Centras, Vytauto pr.",
+    "rooms": 4,
+    "area": 92,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-paciame-kauno-centre-vytauto-pr56-1-2162317/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-paciame-kauno-centre-vytauto-pr56-1-2162317/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-paciame-kauno-centre-vytauto-pr56-1-2162317/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-paciame-kauno-centre-vytauto-pr56-1-2162317/"
+        }
+    ]
+}

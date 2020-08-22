@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33377617/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-s-daukanto-g-modernizmo-epochoje-statytas-namas-siandien-1-2138295/",
+    "ids": [
+        "2138295"
+    ],
+    "address": "Kaunas, Centras, S. Daukanto g.",
+    "rooms": 3,
+    "area": 68,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "89000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-s-daukanto-g-modernizmo-epochoje-statytas-namas-siandien-1-2138295/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "89000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-s-daukanto-g-modernizmo-epochoje-statytas-namas-siandien-1-2138295/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "89000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-s-daukanto-g-modernizmo-epochoje-statytas-namas-siandien-1-2138295/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "89000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-s-daukanto-g-modernizmo-epochoje-statytas-namas-siandien-1-2138295/"
+        }
+    ]
+}

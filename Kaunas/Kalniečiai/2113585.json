@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29656531/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-jaukus-triju-kambariu-butas-1-2113585/",
+    "ids": [
+        "2113585"
+    ],
+    "address": "Kaunas, Kalniečiai, Šiaurės pr.",
+    "rooms": 3,
+    "area": 59,
+    "floor": "4/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "47500",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-jaukus-triju-kambariu-butas-1-2113585/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "47500",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-jaukus-triju-kambariu-butas-1-2113585/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "47500",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-jaukus-triju-kambariu-butas-1-2113585/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "47500",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-jaukus-triju-kambariu-butas-1-2113585/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "47500",
+            "url": "http://www.aruodas.lt/butai-kaune-kalnieciuose-siaures-pr-parduodamas-jaukus-triju-kambariu-butas-1-2113585/"
+        }
+    ]
+}

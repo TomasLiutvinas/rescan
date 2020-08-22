@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34187987/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pasiles-g-dainavoje-pasiles-gatveje-parduodamas-triju-1-2170005/",
+    "ids": [
+        "2170005"
+    ],
+    "address": "Kaunas, Dainava, Pašilės g.",
+    "rooms": 3,
+    "area": 67,
+    "floor": "6/12",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "62500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pasiles-g-dainavoje-pasiles-gatveje-parduodamas-triju-1-2170005/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "62500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pasiles-g-dainavoje-pasiles-gatveje-parduodamas-triju-1-2170005/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "62500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pasiles-g-dainavoje-pasiles-gatveje-parduodamas-triju-1-2170005/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "62500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-pasiles-g-dainavoje-pasiles-gatveje-parduodamas-triju-1-2170005/"
+        }
+    ]
+}

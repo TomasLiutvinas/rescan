@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34238123/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-62-kv-m-3-k-butas-kursiu-g-8-1-2170697/",
+    "ids": [
+        "2170697"
+    ],
+    "address": "Kaunas, Šilainiai, Kuršių g.",
+    "rooms": 3,
+    "area": 62,
+    "floor": "8/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-62-kv-m-3-k-butas-kursiu-g-8-1-2170697/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-62-kv-m-3-k-butas-kursiu-g-8-1-2170697/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-62-kv-m-3-k-butas-kursiu-g-8-1-2170697/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "42000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-62-kv-m-3-k-butas-kursiu-g-8-1-2170697/"
+        }
+    ]
+}

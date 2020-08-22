@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33643431/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-alsedziu-g-parduodamas-3-kambariu-butas-a-sanciuose-1-2145449/",
+    "ids": [
+        "2145449"
+    ],
+    "address": "Kaunas, Aukštieji Šančiai, Alsėdžių g.",
+    "rooms": 3,
+    "area": 65,
+    "floor": "6/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-alsedziu-g-parduodamas-3-kambariu-butas-a-sanciuose-1-2145449/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-alsedziu-g-parduodamas-3-kambariu-butas-a-sanciuose-1-2145449/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-alsedziu-g-parduodamas-3-kambariu-butas-a-sanciuose-1-2145449/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "48000",
+            "url": "http://www.aruodas.lt/butai-kaune-aukstuosiuose-sanciuose-alsedziu-g-parduodamas-3-kambariu-butas-a-sanciuose-1-2145449/"
+        }
+    ]
+}

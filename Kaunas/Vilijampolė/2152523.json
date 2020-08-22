@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33697347/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-neries-krantine-parduodamas-naujai-suremontuotas-siltas-2-1-2152523/",
+    "ids": [
+        "2152523"
+    ],
+    "address": "Kaunas, Vilijampolė, Neries krantinė",
+    "rooms": 2,
+    "area": 44,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "35999",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-neries-krantine-parduodamas-naujai-suremontuotas-siltas-2-1-2152523/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "35999",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-neries-krantine-parduodamas-naujai-suremontuotas-siltas-2-1-2152523/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "35999",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-neries-krantine-parduodamas-naujai-suremontuotas-siltas-2-1-2152523/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "35999",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-neries-krantine-parduodamas-naujai-suremontuotas-siltas-2-1-2152523/"
+        }
+    ]
+}

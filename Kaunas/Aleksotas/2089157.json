@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29461329/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-naujas-butas-salia-parko-1-2089157/",
+    "ids": [
+        "2089157"
+    ],
+    "address": "Kaunas, Aleksotas, Šeštokų g.",
+    "rooms": 1,
+    "area": 22,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-naujas-butas-salia-parko-1-2089157/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-naujas-butas-salia-parko-1-2089157/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-naujas-butas-salia-parko-1-2089157/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-naujas-butas-salia-parko-1-2089157/"
+        }
+    ]
+}

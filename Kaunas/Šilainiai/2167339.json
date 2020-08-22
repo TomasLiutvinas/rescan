@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34007543/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-vidinis-2-kambariu-butas-1-2167339/",
+    "ids": [
+        "2167339"
+    ],
+    "address": "Kaunas, Šilainiai, Baltų pr.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "3/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-vidinis-2-kambariu-butas-1-2167339/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-vidinis-2-kambariu-butas-1-2167339/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-vidinis-2-kambariu-butas-1-2167339/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "40000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-baltu-pr-parduodamas-vidinis-2-kambariu-butas-1-2167339/"
+        }
+    ]
+}

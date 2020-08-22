@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33109483/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-sanciuose-sodu-g-parduodamas-tvarkingas-butas-zemuosiuose-1-2156827/",
+    "ids": [
+        "2156827"
+    ],
+    "address": "Kaunas, Ž. Šančiai, Sodų g.",
+    "rooms": 2,
+    "area": 63,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-sodu-g-parduodamas-tvarkingas-butas-zemuosiuose-1-2156827/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-sodu-g-parduodamas-tvarkingas-butas-zemuosiuose-1-2156827/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-sodu-g-parduodamas-tvarkingas-butas-zemuosiuose-1-2156827/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "31000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-sodu-g-parduodamas-tvarkingas-butas-zemuosiuose-1-2156827/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_32562557/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-kauno-centre-parduodamas-3-kambariu-butas-1-2153051/",
+    "ids": [
+        "2153051"
+    ],
+    "address": "Kaunas, Centras, Kęstučio g.",
+    "rooms": 3,
+    "area": 62,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "79950",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-kauno-centre-parduodamas-3-kambariu-butas-1-2153051/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "79950",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-kauno-centre-parduodamas-3-kambariu-butas-1-2153051/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "79950",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-kauno-centre-parduodamas-3-kambariu-butas-1-2153051/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "79950",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-kestucio-g-kauno-centre-parduodamas-3-kambariu-butas-1-2153051/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_20901025/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-vidinis-butas-su-dviem-balkonais-15blok-1-2011797/",
+    "ids": [
+        "2011797"
+    ],
+    "address": "Kaunas, Dainava, Kovo 11-osios g.",
+    "rooms": 2,
+    "area": 44,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "36800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-vidinis-butas-su-dviem-balkonais-15blok-1-2011797/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "36800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-vidinis-butas-su-dviem-balkonais-15blok-1-2011797/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "36800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-vidinis-butas-su-dviem-balkonais-15blok-1-2011797/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "36800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-vidinis-butas-su-dviem-balkonais-15blok-1-2011797/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "36800",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-kovo-11-osios-g-vidinis-butas-su-dviem-balkonais-15blok-1-2011797/"
+        }
+    ]
+}

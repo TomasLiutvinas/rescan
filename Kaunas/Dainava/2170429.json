@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34211775/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-tvarkingas-1k-butukas-ramioje-ir-1-2170429/",
+    "ids": [
+        "2170429"
+    ],
+    "address": "Kaunas, Dainava, Partizanų g.",
+    "rooms": 1,
+    "area": 28,
+    "floor": "1/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-tvarkingas-1k-butukas-ramioje-ir-1-2170429/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-tvarkingas-1k-butukas-ramioje-ir-1-2170429/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-tvarkingas-1k-butukas-ramioje-ir-1-2170429/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "22500",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-partizanu-g-tvarkingas-1k-butukas-ramioje-ir-1-2170429/"
+        }
+    ]
+}

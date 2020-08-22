@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_24648459/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-kolektorinis-sildymas-renovuojamas-namas-1-2047817/",
+    "ids": [
+        "2047817"
+    ],
+    "address": "Kaunas, Centras, Vytauto pr.",
+    "rooms": 4,
+    "area": 92,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-kolektorinis-sildymas-renovuojamas-namas-1-2047817/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-kolektorinis-sildymas-renovuojamas-namas-1-2047817/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-kolektorinis-sildymas-renovuojamas-namas-1-2047817/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-kolektorinis-sildymas-renovuojamas-namas-1-2047817/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "75000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-vytauto-pr-erdvus-butas-centre-aukstom-lubom-1-2047817/"
+        }
+    ]
+}

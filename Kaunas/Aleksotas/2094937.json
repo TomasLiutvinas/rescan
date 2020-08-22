@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29462005/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-3-kambariu-naujas-butas-salia-1-2094937/",
+    "ids": [
+        "2094937"
+    ],
+    "address": "Kaunas, Aleksotas, Šeštokų g.",
+    "rooms": 3,
+    "area": 58,
+    "floor": "2/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/26/2017",
+            "price": "58000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-3-kambariu-naujas-butas-salia-1-2094937/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "58000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-3-kambariu-naujas-butas-salia-1-2094937/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "58000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-3-kambariu-naujas-butas-salia-1-2094937/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "58000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-sestoku-g-parduodamas-3-kambariu-naujas-butas-salia-1-2094937/"
+        }
+    ]
+}

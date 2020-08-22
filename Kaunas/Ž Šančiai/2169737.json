@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34158321/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-sanciuose-a-juozapaviciaus-pr-parduodamas-2-kambariu-butas-a-1-2169737/",
+    "ids": [
+        "2169737"
+    ],
+    "address": "Kaunas, Ž. Šančiai, A. Juozapavičiaus pr.",
+    "rooms": 2,
+    "area": 33,
+    "floor": "2/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "15000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-a-juozapaviciaus-pr-parduodamas-2-kambariu-butas-a-1-2169737/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "15000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-a-juozapaviciaus-pr-parduodamas-2-kambariu-butas-a-1-2169737/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "15000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-a-juozapaviciaus-pr-parduodamas-2-kambariu-butas-a-1-2169737/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "15000",
+            "url": "http://www.aruodas.lt/butai-kaune-sanciuose-a-juozapaviciaus-pr-parduodamas-2-kambariu-butas-a-1-2169737/"
+        }
+    ]
+}

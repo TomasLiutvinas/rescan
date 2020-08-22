@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34439025/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-aleksote-veiveriu-g-parduodamas-jaukus-siltas-2-k-butas-1-2173929/",
+    "ids": [
+        "2173929"
+    ],
+    "address": "Kaunas, Aleksotas, Veiverių g.",
+    "rooms": 2,
+    "area": 39,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-veiveriu-g-parduodamas-jaukus-siltas-2-k-butas-1-2173929/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-aleksote-veiveriu-g-parduodamas-jaukus-siltas-2-k-butas-1-2173929/"
+        }
+    ]
+}

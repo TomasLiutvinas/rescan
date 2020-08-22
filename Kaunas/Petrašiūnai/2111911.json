@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29529517/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-naglio-g-butas-yra-ramioje-vietoje-butui-priklauso-1-2111911/",
+    "ids": [
+        "2111911"
+    ],
+    "address": "Kaunas, Petrašiūnai, Naglio g.",
+    "rooms": 4,
+    "area": 83,
+    "floor": "1/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-naglio-g-butas-yra-ramioje-vietoje-butui-priklauso-1-2111911/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-naglio-g-butas-yra-ramioje-vietoje-butui-priklauso-1-2111911/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-naglio-g-butas-yra-ramioje-vietoje-butui-priklauso-1-2111911/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-naglio-g-butas-yra-ramioje-vietoje-butui-priklauso-1-2111911/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "45000",
+            "url": "http://www.aruodas.lt/butai-kaune-petrasiunuose-naglio-g-butas-yra-ramioje-vietoje-butui-priklauso-1-2111911/"
+        }
+    ]
+}

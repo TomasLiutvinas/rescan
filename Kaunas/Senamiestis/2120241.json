@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_30140217/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-3-k-butas-senamiestyje-1-2120241/",
+    "ids": [
+        "2120241"
+    ],
+    "address": "Kaunas, Senamiestis, M. Valančiaus g.",
+    "rooms": 3,
+    "area": 85,
+    "floor": "3/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "100000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-3-k-butas-senamiestyje-1-2120241/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "100000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-3-k-butas-senamiestyje-1-2120241/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "100000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-3-k-butas-senamiestyje-1-2120241/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "100000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-3-k-butas-senamiestyje-1-2120241/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "100000",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-m-valanciaus-g-parduodamas-3-k-butas-senamiestyje-1-2120241/"
+        }
+    ]
+}

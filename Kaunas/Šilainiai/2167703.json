@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34037711/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-erdvus-2-k-butas-silainiuose-2-1-2167703/",
+    "ids": [
+        "2167703"
+    ],
+    "address": "Kaunas, Šilainiai, Kuršių g.",
+    "rooms": 2,
+    "area": 51,
+    "floor": "2/9",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "39990",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-erdvus-2-k-butas-silainiuose-2-1-2167703/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "39990",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-erdvus-2-k-butas-silainiuose-2-1-2167703/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "39990",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-erdvus-2-k-butas-silainiuose-2-1-2167703/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "39990",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kursiu-g-parduodamas-erdvus-2-k-butas-silainiuose-2-1-2167703/"
+        }
+    ]
+}

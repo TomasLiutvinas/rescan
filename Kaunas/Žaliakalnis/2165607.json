@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33900429/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-partizanu-g-zaliakalnyje-partizanu-gatveje-parduodamas-1-2165607/",
+    "ids": [
+        "2165607"
+    ],
+    "address": "Kaunas, Žaliakalnis, Partizanų g.",
+    "rooms": 1,
+    "area": 21,
+    "floor": "1/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "13500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-partizanu-g-zaliakalnyje-partizanu-gatveje-parduodamas-1-2165607/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "13500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-partizanu-g-zaliakalnyje-partizanu-gatveje-parduodamas-1-2165607/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "13500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-partizanu-g-zaliakalnyje-partizanu-gatveje-parduodamas-1-2165607/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "13500",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-partizanu-g-zaliakalnyje-partizanu-gatveje-parduodamas-1-2165607/"
+        }
+    ]
+}

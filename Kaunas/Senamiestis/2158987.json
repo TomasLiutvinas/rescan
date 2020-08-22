@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33318339/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-karaliaus-mindaugo-pr-siulome-isigyti-nestandartinio-tipo-buta-1-2158987/",
+    "ids": [
+        "2158987"
+    ],
+    "address": "Kaunas, Senamiestis, Karaliaus Mindaugo pr.",
+    "rooms": 2,
+    "area": 50,
+    "floor": "3/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "69983",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-karaliaus-mindaugo-pr-siulome-isigyti-nestandartinio-tipo-buta-1-2158987/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "69983",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-karaliaus-mindaugo-pr-siulome-isigyti-nestandartinio-tipo-buta-1-2158987/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "69983",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-karaliaus-mindaugo-pr-siulome-isigyti-nestandartinio-tipo-buta-1-2158987/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "69983",
+            "url": "http://www.aruodas.lt/butai-kaune-senamiestyje-karaliaus-mindaugo-pr-siulome-isigyti-nestandartinio-tipo-buta-1-2158987/"
+        }
+    ]
+}

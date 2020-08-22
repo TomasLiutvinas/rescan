@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34317289/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-5-k-butas-kaune-taikos-pr-1-2171763/",
+    "ids": [
+        "2171763"
+    ],
+    "address": "Kaunas, Dainava, Taikos pr.",
+    "rooms": 5,
+    "area": 100,
+    "floor": "5/6",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-5-k-butas-kaune-taikos-pr-1-2171763/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-5-k-butas-kaune-taikos-pr-1-2171763/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-5-k-butas-kaune-taikos-pr-1-2171763/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "90000",
+            "url": "http://www.aruodas.lt/butai-kaune-dainavoje-taikos-pr-parduodamas-5-k-butas-kaune-taikos-pr-1-2171763/"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_29185335/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-aukstaiciu-g-parduodamas-butas-aukstaiciu-g-41-rakinama-1-2065221/",
+    "ids": [
+        "2065221"
+    ],
+    "address": "Kaunas, Žaliakalnis, Aukštaičių g.",
+    "rooms": 1,
+    "area": 30,
+    "floor": "4/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-aukstaiciu-g-parduodamas-butas-aukstaiciu-g-41-rakinama-1-2065221/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-aukstaiciu-g-parduodamas-butas-aukstaiciu-g-41-rakinama-1-2065221/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-aukstaiciu-g-parduodamas-butas-aukstaiciu-g-41-rakinama-1-2065221/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "29000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-aukstaiciu-g-parduodamas-butas-aukstaiciu-g-41-rakinama-1-2065221/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "29900",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-aukstaiciu-g-parduodamas-butas-aukstaiciu-g-41-rakinama-1-2065221/"
+        }
+    ]
+}

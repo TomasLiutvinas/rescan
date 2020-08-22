@@ -1,0 +1,19 @@
+{
+    "imageUrl": "http://aruodas-static.dgn.lt/static/img/nophoto.png",
+    "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-1-2124909/",
+    "ids": [
+        "2124909"
+    ],
+    "address": "Kaunas, Panemunė, Plento g.",
+    "rooms": 2,
+    "area": 44,
+    "floor": "2/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "12/06/2016",
+            "price": "24000",
+            "url": "http://www.aruodas.lt/butai-kaune-panemuneje-plento-g-1-2124909/"
+        }
+    ]
+}

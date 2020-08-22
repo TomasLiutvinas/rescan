@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_28602711/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-taikos-pr-parduodamas-4-k-butas-muriniame-name-kaune-1-2086473/",
+    "ids": [
+        "2086473"
+    ],
+    "address": "Kaunas, Žaliakalnis, Taikos pr.",
+    "rooms": 4,
+    "area": 75,
+    "floor": "4/5",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-taikos-pr-parduodamas-4-k-butas-muriniame-name-kaune-1-2086473/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-taikos-pr-parduodamas-4-k-butas-muriniame-name-kaune-1-2086473/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-taikos-pr-parduodamas-4-k-butas-muriniame-name-kaune-1-2086473/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-taikos-pr-parduodamas-4-k-butas-muriniame-name-kaune-1-2086473/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "85000",
+            "url": "http://www.aruodas.lt/butai-kaune-zaliakalnyje-taikos-pr-parduodamas-4-k-butas-muriniame-name-kaune-1-2086473/"
+        }
+    ]
+}

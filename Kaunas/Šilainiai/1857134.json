@@ -1,0 +1,39 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34108459/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-kambarys-1845-kvm-virtuve-1-1857134/",
+    "ids": [
+        "1857134"
+    ],
+    "address": "Kaunas, Šilainiai, Kalnų g.",
+    "rooms": 2,
+    "area": 45,
+    "floor": "1/4",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "73200",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-kambarys-1845-kvm-virtuve-1-1857134/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "73200",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-kambarys-1845-kvm-virtuve-1-1857134/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "73200",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-kambarys-1845-kvm-virtuve-1-1857134/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "73200",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-kambarys-1845-kvm-virtuve-1-1857134/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "73200",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-kalnu-g-apie-buta-kambarys-1845-kvm-1-1857134/"
+        }
+    ]
+}

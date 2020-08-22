@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34400489/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-silainiuose-j-vienozinskio-g-rytine-kava-su-vaizdu-i-upe-seimyniniai-1-2173253/",
+    "ids": [
+        "2173253"
+    ],
+    "address": "Kaunas, Šilainiai, J. Vienožinskio g.",
+    "rooms": 3,
+    "area": 80,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "96000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-j-vienozinskio-g-rytine-kava-su-vaizdu-i-upe-seimyniniai-1-2173253/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "96000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-j-vienozinskio-g-rytine-kava-su-vaizdu-i-upe-seimyniniai-1-2173253/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "96000",
+            "url": "http://www.aruodas.lt/butai-kaune-silainiuose-j-vienozinskio-g-rytine-kava-su-vaizdu-i-upe-seimyniniai-1-2173253/"
+        }
+    ]
+}

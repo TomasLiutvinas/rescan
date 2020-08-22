@@ -1,0 +1,24 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_28815121/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-skubiai-parduodami-apartamentai-kauno-centre-1-2101453/",
+    "ids": [
+        "2101453"
+    ],
+    "address": "Kaunas, Centras, I. Kanto g.",
+    "rooms": 2,
+    "area": 87,
+    "floor": "8/10",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/23/2017",
+            "price": "289000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-skubiai-parduodami-apartamentai-kauno-centre-1-2101453/"
+        },
+        {
+            "date": "12/06/2016",
+            "price": "289000",
+            "url": "http://www.aruodas.lt/butai-kaune-centre-i-kanto-g-skubiai-parduodami-apartamentai-kauno-centre-1-2101453/"
+        }
+    ]
+}

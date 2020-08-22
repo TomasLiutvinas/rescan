@@ -1,0 +1,34 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_33619309/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-inkaro-g-parduodamas-triju-kambariu-butas-is-21-namo-1-2162235/",
+    "ids": [
+        "2162235"
+    ],
+    "address": "Kaunas, Vilijampolė, Inkaro g.",
+    "rooms": 3,
+    "area": 64,
+    "floor": "1/2",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-inkaro-g-parduodamas-triju-kambariu-butas-is-21-namo-1-2162235/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-inkaro-g-parduodamas-triju-kambariu-butas-is-21-namo-1-2162235/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-inkaro-g-parduodamas-triju-kambariu-butas-is-21-namo-1-2162235/"
+        },
+        {
+            "date": "01/23/2017",
+            "price": "35000",
+            "url": "http://www.aruodas.lt/butai-kaune-vilijampoleje-inkaro-g-parduodamas-triju-kambariu-butas-is-21-namo-1-2162235/"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "imageUrl": "http://aruodas-img.dgn.lt/object_63_34401077/nuotrauka.jpg",
+    "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-ikalnes-aklg-lampedzio-takas-naujas-mazaauksciu-1-2173269/",
+    "ids": [
+        "2173269"
+    ],
+    "address": "Kaunas, Lampėdžiai, Įkalnės aklg.",
+    "rooms": 2,
+    "area": 56,
+    "floor": "1/3",
+    "phones": [],
+    "priceHistory": [
+        {
+            "date": "01/27/2017",
+            "price": "66352",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-ikalnes-aklg-lampedzio-takas-naujas-mazaauksciu-1-2173269/"
+        },
+        {
+            "date": "01/26/2017",
+            "price": "66352",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-ikalnes-aklg-lampedzio-takas-naujas-mazaauksciu-1-2173269/"
+        },
+        {
+            "date": "01/25/2017",
+            "price": "66352",
+            "url": "http://www.aruodas.lt/butai-kaune-lampedziuose-ikalnes-aklg-lampedzio-takas-naujas-mazaauksciu-1-2173269/"
+        }
+    ]
+}
